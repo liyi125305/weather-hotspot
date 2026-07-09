@@ -1,0 +1,58 @@
+name: Daily Weather Update
+
+# 每天 UTC 0:00 (北京时间 8:00) 跑一次
+# 也可以手动触发：Actions → Daily Weather Update → Run workflow
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write  # 允许 commit & push
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: 🔧 Install dependencies
+        run: |
+          npm ci --no-audit --no-fund
+          npm install dotenv axios rss-parser --no-audit --no-fund
+      
+      - name: 🌤️ Fetch weather data
+        env:
+          QWEATHER_API_KEY: ${{ secrets.QWEATHER_API_KEY }}
+          QWEATHER_API_HOST: ${{ secrets.QWEATHER_API_HOST }}
+        run: node scripts/fetch-data.mjs
+      
+      - name: 📊 Print summary
+        run: |
+          echo "=== 抓取结果 ==="
+          if [ -f public/data/meta.json ]; then
+            cat public/data/meta.json
+          fi
+          echo ""
+          echo "=== 预警数量 ==="
+          cat public/data/hotspots.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'{len(d[\"data\"])} 预警')"
+          echo "=== 新闻数量 ==="
+          cat public/data/news.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'{len(d[\"data\"])} 新闻')"
+      
+      - name: 💾 Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🌤️ 每日气象数据更新 - ${{ github.event.repository.updated_at || 'manual' }}"
+          file_pattern: 'public/data/*.json'
+          commit_author: "Mavis <mavis@local>"

@@ -1,0 +1,2739 @@
+{
+  "days": {
+    "2026-07-07": {
+      "date": "2026-07-07",
+      "capturedAt": "2026-07-07T06:41:03.469Z",
+      "warnings": [
+        {
+          "id": "101010100-10101010020260707090143657848624-2026-07-07T09:01+08:00",
+          "type": "thunder",
+          "rawType": "雷电",
+          "title": "北京市气象台2026年7月7日9时00分发布雷电黄色预警信号",
+          "location": [
+            116.4074,
+            39.9042
+          ],
+          "province": "北京",
+          "provinceCode": 110000,
+          "severity": "yellow",
+          "source": "北京市气象局",
+          "publishedAt": "2026-07-07T01:01:00.000Z",
+          "summary": "市气象台2026年7月7日9时00分发布雷电黄色预警信号：预计，7月7日12时至23时，我市自西向东将先后出现雷阵雨天气，主要时段为16时至20时。延庆、怀柔、密云、平谷、顺义、昌平、门头沟、房山等区相对明显，局地短时雨强较大，并伴有7级以上阵风和冰雹，请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101030100-10103010020260707133430000258911-2026-07-07T13:34+08:00",
+          "type": "hail",
+          "rawType": "冰雹",
+          "title": "天津市气象台发布冰雹橙色预警",
+          "location": [
+            117.1901,
+            39.1255
+          ],
+          "province": "天津",
+          "provinceCode": 120000,
+          "severity": "orange",
+          "source": "天津市气象台",
+          "publishedAt": "2026-07-07T05:34:00.000Z",
+          "summary": "天津市气象台于2026年07月07日13时31分发布冰雹橙色预警信号：预计未来3小时，天津中心城区可能出现冰雹天气，并伴有7-9级、个别点10级以上的短时大风，请有关单位和人员做好防范准备。",
+          "detailUrl": null
+        },
+        {
+          "id": "101030100-10103010020260707132119524522305-2026-07-07T13:21+08:00",
+          "type": "strong-wind",
+          "rawType": "海上大风",
+          "title": "天津海洋中心气象台更新海上大风橙色预警",
+          "location": [
+            117.1901,
+            39.1255
+          ],
+          "province": "天津",
+          "provinceCode": 120000,
+          "severity": "orange",
+          "source": "天津海洋中心气象台",
+          "publishedAt": "2026-07-07T05:21:00.000Z",
+          "summary": "天津海洋中心气象台于2026年07月07日13时22分将海上大风黄色预警信号升级为海上大风橙色预警信号：受对流云团影响，今天下午到夜间，天津港海域、南港海域、天津港锚地海域、渤海中部海域将有阵风11-13级，个别点14级，请有关单位和人员做好防范准备。",
+          "detailUrl": null
+        },
+        {
+          "id": "101030100-10103010020260707120900247439955-2026-07-07T12:09+08:00",
+          "type": "gust",
+          "rawType": "雷雨大风",
+          "title": "天津市气象台发布雷雨大风黄色预警",
+          "location": [
+            117.1901,
+            39.1255
+          ],
+          "province": "天津",
+          "provinceCode": 120000,
+          "severity": "yellow",
+          "source": "天津市气象台",
+          "publishedAt": "2026-07-07T04:09:00.000Z",
+          "summary": "天津市气象台于2026年07月07日12时06分发布雷雨大风黄色预警信号：预计今天下午至前半夜，天津中心城区将有雷阵雨天气，降雨具有间歇性，雷雨时阵风可达7-9级，个别点10级以上，局地伴有短时强降水和冰雹，请有关单位和人员做好防范准备。",
+          "detailUrl": null
+        },
+        {
+          "id": "101100101-10110010120260707103500341279800-2026-07-07T10:35+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "山西省气象台发布高温黄色预警",
+          "location": [
+            112.5489,
+            37.8706
+          ],
+          "province": "太原",
+          "provinceCode": 140000,
+          "severity": "yellow",
+          "source": "山西省气象台",
+          "publishedAt": "2026-07-07T02:35:00.000Z",
+          "summary": "山西省气象台2026年07月07日10时35分变更高温黄色预警，预警区域：忻州市的盆地和西部河谷、太原市和晋中市的盆地、吕梁东南部和西部河谷、阳泉市东部、临汾市的盆地和西部河谷、运城市、长治市东北部。预计7-9日连续三天预警区域内日最高气温将在35℃以上，其中临运盆地、西部河谷及晋中盆地等地的局部地区最高气温将达37℃以上。请有关单位和人员做好防范准备。防御指南：1有关部门和单位按照职责做好防暑降温准备工作；2午后尽量减少户外活动；3对老、弱、病、幼人群提供防暑降温指导；4高温条件下作业和白天需要长时间进行户外露天作业的人员应当采取必要的防护措施。",
+          "detailUrl": null
+        },
+        {
+          "id": "101050101-10105010120260706203000412608617-2026-07-06T20:30+08:00",
+          "type": "flood",
+          "rawType": "中小河流洪水气象风险",
+          "title": "黑龙江省气象局发布中小河流洪水气象风险蓝色预警",
+          "location": [
+            126.6428,
+            45.7569
+          ],
+          "province": "哈尔滨",
+          "provinceCode": 230000,
+          "severity": "blue",
+          "source": "黑龙江省气象局",
+          "publishedAt": "2026-07-06T12:30:00.000Z",
+          "summary": "黑龙江省水利厅和黑龙江省气象局7月6日20时30分联合发布中小河流洪水气象风险蓝色预警：\n预计7月6日20时30分至8日20时30分，松岭区、加格达奇区、嫩江市、讷河市、克山县、依安县、富裕县、拜泉县、甘南县、梅里斯达斡尔族区、龙江县、碾子山区、齐齐哈尔市区、泰来县、林甸县、大庆市区、肇源县、肇州县、北林区、双城区、五常市、宁安市、东宁市、绥芬河市、穆棱市、鸡西市区有一定风险发生中小河流洪水（蓝色预警）。请密切关注天气形势及雨水情变化，加强分析研判，及时向有关乡镇、村发布预警信息并按有关规定做好叫应工作。加强巡查排险，必要情况下提前组织危险区群众转移，确保人民群众生命安全。",
+          "detailUrl": null
+        },
+        {
+          "id": "101050101-10105010120260706203000628926916-2026-07-06T20:30+08:00",
+          "type": "flash-flood",
+          "rawType": "山洪灾害事件",
+          "title": "黑龙江省气象局发布山洪灾害蓝色预警",
+          "location": [
+            126.6428,
+            45.7569
+          ],
+          "province": "哈尔滨",
+          "provinceCode": 230000,
+          "severity": "blue",
+          "source": "黑龙江省气象局",
+          "publishedAt": "2026-07-06T12:30:00.000Z",
+          "summary": "黑龙江省水利厅和黑龙江省气象局7月6日20时30分联合发布山洪灾害气象风险蓝色预警：\n预计7月6日20时30分至8日20时30分，松岭区、加格达奇区、嫩江市、讷河市、克山县、拜泉县、甘南县、龙江县、碾子山区、五常市、宁安市、东宁市、绥芬河市、穆棱市、双城区、鸡西市区有一定风险发生山洪灾害（蓝色预警）。请密切关注天气形势及雨水情变化，加强分析研判，及时向有关乡镇、村发布预警信息并按有关规定做好叫应工作。加强巡查排险，必要情况下提前组织危险区群众转移，确保人民群众生命安全。",
+          "detailUrl": null
+        },
+        {
+          "id": "101190101-10119010120260707123312720769590-2026-07-07T12:33+08:00",
+          "type": "convection",
+          "rawType": "强对流",
+          "title": "江苏省气象台发布强对流橙色预警",
+          "location": [
+            118.7969,
+            32.0603
+          ],
+          "province": "南京",
+          "provinceCode": 320000,
+          "severity": "orange",
+          "source": "江苏省气象台",
+          "publishedAt": "2026-07-07T04:33:00.000Z",
+          "summary": "江苏省气象台2026年07月07日12时31分升级发布强对流橙色预警：今天下午到上半夜，淮安、盐城、宿迁、连云港、扬州北部、泰州北部将出现10级以上雷暴大风和30-50mm/h短时强降水，并可能出现龙卷。省应急厅（省防减救灾办）、省气象局提醒注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101190101-10119010120260706163022221051361-2026-07-06T16:30+08:00",
+          "type": "rainstorm",
+          "rawType": "暴雨",
+          "title": "江苏省气象台发布暴雨蓝色预警",
+          "location": [
+            118.7969,
+            32.0603
+          ],
+          "province": "南京",
+          "provinceCode": 320000,
+          "severity": "blue",
+          "source": "江苏省气象台",
+          "publishedAt": "2026-07-06T08:30:00.000Z",
+          "summary": "江苏省气象台2026年07月06日16时27分发布暴雨蓝色预警：预计今天夜里到明天白天，徐州、连云港、淮安、盐城中北部、扬州北部、泰州北部、宿迁地区将出现6小时50毫米及以上的强降雨，并伴有每小时30-60毫米的短时强降水和8-10级雷暴大风等强对流天气。省应急厅（省防减救灾办）、省气象局提醒注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101230101-10123010120260707102500222043623-2026-07-07T10:25+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "福州市气象台发布高温橙色预警信号",
+          "location": [
+            119.2965,
+            26.0745
+          ],
+          "province": "福州",
+          "provinceCode": 350000,
+          "severity": "orange",
+          "source": "福州市气象台",
+          "publishedAt": "2026-07-07T02:25:00.000Z",
+          "summary": "福州市气象台2026年07月07日10时25分继续发布高温橙色预警信号：预计今天鼓楼区（安泰街道、五凤街道、温泉街道等），台江区（茶亭街道、瀛洲街道、苍霞街道等），晋安区（新店镇、岳峰镇、王庄街道等），仓山区（盖山镇、建新镇、城门镇等），马尾区（罗星街道、马尾镇）最高气温可达36～38℃，局部超过38℃。请有关单位和人员注意做好防暑降温工作，特别是户外或者高温条件下的作业人员应当采取必要的防护措施！",
+          "detailUrl": null
+        },
+        {
+          "id": "101240101-10124010120260707091100922860399-2026-07-07T09:11+08:00",
+          "type": "strong-wind",
+          "rawType": "大风",
+          "title": "南昌市气象台2026年07月07日09时11分发布大风蓝色预警信号。",
+          "location": [
+            115.8921,
+            28.6765
+          ],
+          "province": "南昌",
+          "provinceCode": 360000,
+          "severity": "blue",
+          "source": "南昌市气象台",
+          "publishedAt": "2026-07-07T01:11:00.000Z",
+          "summary": "南昌市气象台2026年07月07日09时11分发布大风蓝色预警信号：预计未来24小时内，受偏南急流影响，我市部分地区的江湖水面、平原河谷和高海拔山区阵风可达7-8级，请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101200101-10120010120260706155514851718734-2026-07-06T15:55+08:00",
+          "type": "rainstorm",
+          "rawType": "暴雨",
+          "title": "武汉市气象台发布暴雨黄色预警",
+          "location": [
+            114.3419,
+            30.5461
+          ],
+          "province": "武汉",
+          "provinceCode": 420000,
+          "severity": "yellow",
+          "source": "武汉市气象台",
+          "publishedAt": "2026-07-06T07:55:00.000Z",
+          "summary": "武汉市气象台2026年7月6日15时55分发布暴雨黄色预警信号：预计今天傍晚至明天上午，我市大部街道（乡镇）将有大雨到暴雨、局地大暴雨，并伴有短时强降水、雷暴大风等强对流天气，最大小时雨强40-60毫米，阵风7-9级，山区山洪、城乡积涝、中小河流洪水、地质灾害风险较高，请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101200101-10120010120260706151013016602103-2026-07-06T15:10+08:00",
+          "type": "strong-wind",
+          "rawType": "大风",
+          "title": "武汉市气象台发布大风蓝色预警",
+          "location": [
+            114.3419,
+            30.5461
+          ],
+          "province": "武汉",
+          "provinceCode": 420000,
+          "severity": "blue",
+          "source": "武汉市气象台",
+          "publishedAt": "2026-07-06T07:10:00.000Z",
+          "summary": "武汉市气象台2026年7月6日15时10分发布大风蓝色预警信号：预计今天夜间到明天白天，我市大部街道（乡镇）将出现3到5级偏南风，阵风6到8级，江河湖库及山地周边阵风可达9级，请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101300101-10130010120260707093000500115067-2026-07-07T09:30+08:00",
+          "type": "rainstorm",
+          "rawType": "暴雨",
+          "title": "广西壮族自治区气象台更新暴雨橙色预警信号",
+          "location": [
+            108.3669,
+            22.817
+          ],
+          "province": "南宁",
+          "provinceCode": 450000,
+          "severity": "orange",
+          "source": "广西壮族自治区气象台",
+          "publishedAt": "2026-07-07T01:30:00.000Z",
+          "summary": "广西区气象台2026年07月07日09时30分继续发布暴雨橙色预警，预计：未来24小时，防城港、钦州、贵港、玉林、北海、梧州等市及南宁、来宾两市东部有大雨到暴雨、局地大暴雨或特大暴雨并伴有短时雷暴大风等强对流天气。请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101310101-10131010120260707105537032664898-2026-07-07T10:55+08:00",
+          "type": "gust",
+          "rawType": "雷雨大风",
+          "title": "海口市气象台发布雷雨大风黄色预警信号",
+          "location": [
+            110.3312,
+            20.0319
+          ],
+          "province": "海口",
+          "provinceCode": 460000,
+          "severity": "yellow",
+          "source": "海口市气象台",
+          "publishedAt": "2026-07-07T02:55:00.000Z",
+          "summary": "海口市气象台2026年07月07日10时55分发布雷雨大风黄色预警信号：受对流云团影响，我市龙塘镇、云龙镇、红旗镇、三门坡镇、大坡镇、甲子镇、旧州镇、灵山镇、演丰镇、三江镇、大致坡镇、东寨港湾07日10时55分到20时可能出现雷雨大风天气，风力达7～9级并伴有强雷电和局地短时强降水，建议有关单位和人员做好防范工作。",
+          "detailUrl": null
+        },
+        {
+          "id": "101310101-10131010120260707102527846080208-2026-07-07T10:25+08:00",
+          "type": "thunder",
+          "rawType": "雷电",
+          "title": "海口市气象台发布雷电黄色预警信号",
+          "location": [
+            110.3312,
+            20.0319
+          ],
+          "province": "海口",
+          "provinceCode": 460000,
+          "severity": "yellow",
+          "source": "海口市气象台",
+          "publishedAt": "2026-07-07T02:25:00.000Z",
+          "summary": "海口市气象台2026年07月07日10时25分发布雷电黄色预警信号：受对流云团影响，我市07日10时25分到20时可能发生雷电活动，可能会出现雷电灾害事故，建议有关单位和人员做好防范工作。",
+          "detailUrl": null
+        },
+        {
+          "id": "101040100-10104010020260707114815879724315-2026-07-07T11:48+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "重庆市气象台发布高温橙色预警",
+          "location": [
+            106.5516,
+            29.563
+          ],
+          "province": "重庆",
+          "provinceCode": 500000,
+          "severity": "orange",
+          "source": "重庆市气象局",
+          "publishedAt": "2026-07-07T03:48:00.000Z",
+          "summary": "重庆市气象台2026年7月7日11时40分发布“高温橙色预警信号”，预计7日13:00-19:00，渝中、沙坪坝、大渡口、九龙坡、南岸、两江新区、高新区、北碚、巴南、潼南、合川、大足、铜梁、璧山、荣昌、永川、江津、万州、开州、云阳、奉节、巫溪、巫山、彭水等24个区县，日最高气温将升至37℃以上。",
+          "detailUrl": null
+        },
+        {
+          "id": "101110101-10111010120260707112427828274803-2026-07-07T11:24+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "陕西省气象台发布高温黄色预警",
+          "location": [
+            108.9398,
+            34.3416
+          ],
+          "province": "西安",
+          "provinceCode": 610000,
+          "severity": "yellow",
+          "source": "陕西省气象台",
+          "publishedAt": "2026-07-07T03:24:00.000Z",
+          "summary": "陕西省气象台2026年07月07日10时00分继续发布高温黄色预警：受下沉增温和辐射增温影响，预计7月7日陕北黄河沿线、关中平原、陕南河谷部分地方有35℃以上的高温天气，其中榆林南部局地、宝鸡中部、咸阳南部、西安大部、渭南大部、汉中河谷局地、安康东部局地最高气温可达37℃以上，渭南南部局地、安康南部局地最高气温可达40℃。7月8日陕北中东部、关中平原大部、陕南河谷部分地方有35℃以上的高温天气，其中榆林东部局地、延安东北部局地、宝鸡中部、咸阳南部、西安大部、渭南大部、汉中中部、安康中南部可达37℃以上，局地最高气温可达40℃。",
+          "detailUrl": null
+        },
+        {
+          "id": "101110101-10111010120260707090516669898961-2026-07-07T09:05+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "西安市气象台发布高温橙色预警",
+          "location": [
+            108.9398,
+            34.3416
+          ],
+          "province": "西安",
+          "provinceCode": 610000,
+          "severity": "orange",
+          "source": "西安市气象台",
+          "publishedAt": "2026-07-07T01:05:00.000Z",
+          "summary": "西安市气象台2026年07月07日09时05分继续发布高温橙色预警信号：预计未来24小时内新城区、碑林区、莲湖区、雁塔区、灞桥区、未央区、阎良区、临潼区、长安区、高陵区、鄠邑区、周至县、蓝田县、西咸新区的部分乡镇（街道）最高气温将升至37℃以上，请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101110101-10111010120260703170817288255729-2026-07-03T17:08+08:00",
+          "type": "agriculture-risk",
+          "rawType": "农业气象风险",
+          "title": "陕西省农业农村厅发布农业气象风险",
+          "location": [
+            108.9398,
+            34.3416
+          ],
+          "province": "西安",
+          "provinceCode": 610000,
+          "severity": "blue",
+          "source": "陕西省农业农村厅",
+          "publishedAt": "2026-07-03T09:08:00.000Z",
+          "summary": "陕西省气象局与陕西省农业农村厅7月3日联合发布猕猴桃高温热害风险预警：当前我省猕猴桃处于果实膨大期。预计7月5日至9日我省关中、陕南猕猴桃产区将有一次35℃以上高温过程，部分地方有37℃以上高温，局地可达40℃以上。西安南部、宝鸡东部、咸阳南部、渭南南部、陕南河谷地带猕猴桃高温热害风险较高，西安周至县、宝鸡眉县、渭南临渭区猕猴桃高温热害风险高。建议：各猕猴桃种植果园利用喷滴灌科学调控水分与温度；综合运用搭建遮阳网、保留枝叶等强化遮阳防晒，预防日灼灾害；加强地表覆盖，减少地表水分蒸发及热量反射，同时，调节果园小气候，保障树势稳定与果实安全。",
+          "detailUrl": null
+        },
+        {
+          "id": "101150101-10115010120260707140023982409405-2026-07-07T14:00+08:00",
+          "type": "convection",
+          "rawType": "强对流",
+          "title": "青海省气象台发布蓝色预警IV级/一般强对流信号",
+          "location": [
+            100.9018,
+            36.4828
+          ],
+          "province": "西宁",
+          "provinceCode": 630000,
+          "severity": "blue",
+          "source": "青海省气象台",
+          "publishedAt": "2026-07-07T06:00:00.000Z",
+          "summary": "青海省气象台2026年07月07日14时00分发布强对流蓝色预警：预计，07月07日14时00分至07月08日14时00分，西宁、海东、海西东部、海南大部、海北、玉树东部、果洛中北部、黄南将出现8级以上雷暴大风，局地伴有冰雹，其中乌兰、天峻、海晏、兴海、同德、玛沁、甘德、久治、同仁、河南、泽库的部分地区将出现短时强降水，最大小时雨强可达20～30毫米，强对流天气主要集中在7日14时至8日02时，发生雹灾、风灾、雷击和山体滑坡、泥石流、山洪、城乡积涝等灾害的气象风险较高，请注意防范。防御指南：1.政府及相关部门按照职责做好防雷、防大风准备工作，做好人工防雹作业准备；2.户外行人和工作人员减少户外活动，注意远离棚架广告牌等搭建物；3.驱赶家禽、牲畜进入有顶篷的场所，关好门窗加固棚舍；4.工地注意遮盖建筑物资，妥善安置易受风雹影响的室外物品。",
+          "detailUrl": null
+        },
+        {
+          "id": "101170101-10117010120260706161000611107254-2026-07-06T16:10+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "银川市气象台发布高温黄色预警",
+          "location": [
+            106.2309,
+            38.4872
+          ],
+          "province": "银川",
+          "provinceCode": 640000,
+          "severity": "yellow",
+          "source": "银川市气象台",
+          "publishedAt": "2026-07-06T08:10:00.000Z",
+          "summary": "【预警信息发布中心】银川市气象台2026年07月06日16时10分发布高温黄色预警信号:预计7日午后，兴庆区、金凤区、西夏区、贺兰县、永宁县、灵武市有35℃或以上高温天气，请相关部门和广大群众注意预防。",
+          "detailUrl": null
+        }
+      ],
+      "news": [
+        {
+          "id": "news-ike7mx",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "全球连线｜“基于自然的解决方案”亚洲案例征集活动在COP15上启动",
+          "summary": "在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议期间，亚洲开发银行携手清华大学气候变化与可持续发展研究院启动“基于自然的解决方案”亚洲优秀实践案例征集活动。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/11/c_1129200178.htm",
+          "publishedAt": "2026-07-07T06:41:02.890Z"
+        },
+        {
+          "id": "news-y4j6pe",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "“基于自然的解决方案”亚洲案例征集活动在COP15上启动",
+          "summary": "在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议期间，亚洲开发银行携手清华大学气候变化与可持续发展研究院启动“基于自然的解决方案”亚洲优秀实践案例征集活动。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/10/c_1129198181.htm",
+          "publishedAt": "2026-07-07T06:41:02.890Z"
+        },
+        {
+          "id": "news-r1pu5j",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "澳央行预计四季度通胀水平达峰值",
+          "summary": "澳大利亚储备银行（央行）日前发表月度货币政策声明表示，澳通胀水平或将在今年第四季度达到8%左右的峰值，并表示连续加息是遏制高通胀的必要手段。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/07/c_1129190562.htm",
+          "publishedAt": "2026-07-07T06:41:02.890Z"
+        },
+        {
+          "id": "news-7bxg8h",
+          "type": "rainstorm-strong",
+          "mainTagKey": "rainstorm-strong",
+          "tags": [
+            "rainstorm-strong",
+            "flash-flood",
+            "landslide",
+            "temp-night"
+          ],
+          "title": "刚果（金）首都暴雨致141人死亡",
+          "summary": "刚果（金）首都金沙萨12日夜间至13日凌晨遭遇暴雨，多个地区发生洪涝和山体滑坡，导致至少141人死亡。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/14/c_1129206388.htm",
+          "publishedAt": "2026-07-07T06:41:02.889Z"
+        },
+        {
+          "id": "news-4iy3bz",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "scope-national"
+          ],
+          "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
+          "summary": "今天（12月14日），全国大部降水仍稀少，雨雪零散分布，冷空气影响也进入尾声阶段。不过，从明天开始，新一轮实力更强的冷空气接踵而至，将率先从新疆北部展开，随后逐渐给我国大部地区带来大风降温天气，同时西南、江汉等地降水也将增多。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-rlx13t",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave",
+            "cold-air",
+            "temp-continuous",
+            "temp-afternoon"
+          ],
+          "title": "北京今天最高温0℃山区有零星小雪 明起三天冷空气又将来降温",
+          "summary": "今天（12月14日），北京气温将有所回升，最高气温0℃，下午天空云量增多，山区有零星小雪。明起三天，又有冷空气影响北京，北风将再度增大，气温逐渐下降。本周冷空气频繁，气温持续较低，公众请注意防寒保暖。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206415.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-6rqct7",
+          "type": "scope-basin",
+          "mainTagKey": "scope-basin",
+          "tags": [
+            "scope-basin"
+          ],
+          "title": "新时代新征程新伟业｜大河上下满目新——贯彻落实党的二十大精神加强黄河流域生态保护观察",
+          "summary": "万里黄河，奔流不息。大河上下，焕然一新。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/13/c_1129204883.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-zgdq2v",
+          "type": "scope-basin",
+          "mainTagKey": "scope-basin",
+          "tags": [
+            "scope-basin",
+            "impact-water",
+            "temp-continuous"
+          ],
+          "title": "长江流域“抗旱会战”告一段落",
+          "summary": "12月8日，湖南省水利厅解除水旱灾害防御三级应急响应，这是长江流域今年最后一个宣告解除的省级水旱灾害防御应急响应。至此，持续近4个月的长江流域“抗旱会战”告一段落。随着近期迎来数轮降雨，长江流域各地抗旱应急响应目前已经解除。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/13/c_1129204698.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-xka72i",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "cold-air",
+            "scope-national",
+            "temp-continuous"
+          ],
+          "title": "北方多地遭遇沙尘天气 冬季发生沙尘暴正常吗？",
+          "summary": "12日，冷空气裹挟着沙尘影响北方多地，中央气象台继续发布沙尘暴蓝色预警。气象预报显示，未来十天，冷空气活动频繁且势力较强，除青藏高原外，我国大部地区平均气温较常年同期持续明显偏低。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129203259.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-wyu7xf",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave",
+            "drought",
+            "scope-local",
+            "scope-national",
+            "temp-continuous"
+          ],
+          "title": "新华时评：稳住压舱石 吃下定心丸",
+          "summary": "国家统计局12日发布数据，2022年全国粮食总产量13731亿斤，比上年增加74亿斤，粮食产量连续8年稳定在1.3万亿斤以上。我们克服了北方罕见秋汛导致冬小麦晚播、局部发生新冠肺炎疫情和南方持续高温干旱等不利因素影响，全年粮食实现增产丰收。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129203241.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-x8iegl",
+          "type": "gale",
+          "mainTagKey": "gale",
+          "tags": [
+            "gale",
+            "strong-wind",
+            "gust",
+            "scope-local"
+          ],
+          "title": "大风沙尘双预警生效中！北京今日大风伴沙尘阵风将达6至7级",
+          "summary": "今晨，北京大风呼啸，06时，部分地区极大风速已达6～7级，西部部分山区阵风甚至达到10级左右，目前，大风和沙尘蓝色预警信号同时生效中。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129200817.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-wrgs2e",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "strong-wind",
+            "cold-air",
+            "blowing-sand",
+            "dust-float",
+            "scope-local"
+          ],
+          "title": "沙尘暴蓝色预警继续！京津冀等部分地区将现扬沙或浮尘天气",
+          "summary": "受冷空气大风影响，预计12月12日08时至13日08时，内蒙古中西部、甘肃、宁夏、陕西北部、山西中北部、河北中北部、北京、天津以及新疆塔里木盆地等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129200807.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-805zj",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "strong-wind",
+            "cold-air",
+            "blowing-sand",
+            "dust-float",
+            "scope-local",
+            "scope-national"
+          ],
+          "title": "沙尘暴蓝色预警继续！山西河北等8省区有扬沙或浮尘天气",
+          "summary": "受冷空气大风影响，预计12月11日08时至12日08时，新疆东部和南疆盆地、青海北部和西南部、内蒙古西部、甘肃大部、宁夏、陕西中北部、山西、河北西部等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/11/c_1129199534.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-y9vkxa",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air"
+          ],
+          "title": "应急管理部提示：做好近期冷空气过程防范应对",
+          "summary": "针对近期冷空气过程，应急管理部于10日向受影响的25个省份发出提示，要求落实落细低温雨雪冰冻天气应对各项措施，全力保障人民群众生命财产安全。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129198883.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-hq7cjs",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air",
+            "scope-national"
+          ],
+          "title": "三股冷空气先后入侵 中东部气温将一路走低",
+          "summary": "中央气象台10日发布，近期影响我国的冷空气活动频繁，先后有三股冷空气入侵，北风占主导，中东部地区的气温将一路走低，气温零度线也将往南扩张；同时雨雪天气较弱，全国大部地区干燥多风。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129198294.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-mum0a",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "strong-wind",
+            "cold-air",
+            "blowing-sand",
+            "dust-float",
+            "scope-local",
+            "scope-national"
+          ],
+          "title": "沙尘暴蓝色预警继续！山西河北等8省区有扬沙或浮尘天气",
+          "summary": "受冷空气大风影响，预计12月11日08时至12日08时，新疆东部和南疆盆地、青海北部和西南部、内蒙古西部、甘肃大部、宁夏、陕西中北部、山西、河北西部等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/11/c_1129199540.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-osfizx",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "scope-local",
+            "scope-regional"
+          ],
+          "title": "冷空气将携大风降温来袭 明天江苏部分地区最低温跌至冰点附近",
+          "summary": "今明两天（12月10日至11日），受冷空气影响，江苏将出现大风降温天气过程，全省最低气温将明显下降，预计明天部分地区最低气温都将跌至冰点附近，风寒效应明显，公众需厚装护体。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129197667.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-ou2ws0",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air",
+            "scope-national",
+            "temp-night"
+          ],
+          "title": "黑龙江周末两天晴天为主 11日夜间开始雨雪又上线",
+          "summary": "周末两天（12月10日至11日），黑龙江大部地区晴天唱主调，天气舞台总体平静。但冷空气即将“复工”，眼前的平静状态也将被打破，预计11日夜间开始到12日，黑龙江大部地区雨雪再登场，公众需关注临近预报，提前做好相关防范措施。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129197664.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-sntc0k",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air",
+            "gust",
+            "scope-local",
+            "impact-traffic",
+            "impact-tourism"
+          ],
+          "title": "冷空气开工！北京北风在线阵风可达7级 风寒效应明显需保暖",
+          "summary": "冷空气又来了！今天（12月10日），北京虽然天气晴朗，但北风在线，部分地区阵风可达7级左右，风寒效应明显，公众出行需注意保暖避风。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129197503.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-2x6lpu",
+          "type": "impact-agriculture",
+          "mainTagKey": "impact-agriculture",
+          "tags": [
+            "impact-agriculture"
+          ],
+          "title": "国台办：所谓大陆暂停进口台湾午仔鱼等水产品的报道与事实不符",
+          "summary": "近日岛内媒体称大陆无预警禁止进口台湾午仔鱼、秋刀鱼等水产品，台陆委会声称将表达严正抗议。国台办发言人朱凤莲9日答记者问表示，所谓大陆暂停进口台湾午仔鱼、秋刀鱼、鱿鱼等水产品的报道与事实不符，所谓“严正抗议”更是无理取闹。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129196946.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-jg583r",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "scope-local",
+            "scope-national"
+          ],
+          "title": "今起两股冷空气将接踵而至 全国大部雨雪稀少",
+          "summary": "今天（12月9日）开始，冷空气又将活跃起来，其中今天至11日以及12日至14日将有两股冷空气接踵而至，影响均以大风、降温为主，东北等地累计降温幅度大，局地可达10℃以上。此外，今后三天，我国大部地区雨雪稀少的天气格局将延续，雨水主要集中在江南、西南等地。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129194024.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-v7wqjd",
+          "type": "gale",
+          "mainTagKey": "gale",
+          "tags": [
+            "gale",
+            "gust",
+            "scope-local"
+          ],
+          "title": "浙江今明天小雨淅沥阳光难觅 沿海海面风力较大局部阵风可达10级",
+          "summary": "今明两天（12月9日至10日），浙江天气舞台的关键词仍是阴雨，虽然普遍以淅淅沥沥的小雨为主，但天空云层较厚，阳光难觅，平添了一份冬日的阴沉感。此外，未来三天，浙江中部沿海海面、南部沿海海面等东北风明显，阵风逐渐增强至10级左右，海上作业人员需关注预报预警，及时回港避风。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129193881.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-voekc7",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "snow",
+            "impact-outdoor"
+          ],
+          "title": "今天前半夜北京山区有弱降雪 后半夜至明天白天大风降温来袭",
+          "summary": "今天（12月9日）白天，北京天气平稳，以晴到多云天气为主，前半夜山区有零星小雪或小雪，后半夜至明天白天大风降温来袭，户外风寒效应较明显，需注意防范。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129193872.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-gxbrci",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air"
+          ],
+          "title": "今天北京昼夜温差达12℃早晚冷意十足 明后天冷空气又来报到",
+          "summary": "今天（12月8日）北京最高气温7℃，空气依然干燥，昼夜温差达到12℃，早晚体感冷意十足。明后天又有冷空气报到，北京气温再度波动。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/08/c_1129190950.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-h9z0zt",
+          "type": "scope-regional",
+          "mainTagKey": "scope-regional",
+          "tags": [
+            "scope-regional",
+            "scope-national",
+            "impact-traffic",
+            "impact-tourism"
+          ],
+          "title": "今明天广东晴朗在线 早晚仍寒凉需添衣保暖",
+          "summary": "今明两天（12月8日至9日），广东大部地区将维持晴朗的天气格局，不过受晴空辐射影响，全省昼夜温差较大，尤其是粤北地区最低气温不足10℃，早晚出行仍需厚装护体。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/08/c_1129190948.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-hrkfzd",
+          "type": "cold-wave",
+          "mainTagKey": "cold-wave",
+          "tags": [
+            "cold-wave",
+            "snow",
+            "scope-national"
+          ],
+          "title": "全国入冬进程图：大雪节气开启仲冬时节",
+          "summary": "11月26日至12月1日，我国大部地区经历了今冬以来最强寒潮。在其推动下，冬季的版图急剧扩张。截至目前，我国约四分之三国土被冬季覆盖。你那里是冬天了吗？",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/08/c_1129190937.htm",
+          "publishedAt": "2026-07-07T06:41:02.880Z"
+        },
+        {
+          "id": "news-q3p3kg",
+          "type": "tornado",
+          "mainTagKey": "tornado",
+          "tags": [
+            "tornado",
+            "strong-wind",
+            "thunderstorm-wind",
+            "thunderstorm",
+            "convection",
+            "scope-local"
+          ],
+          "title": "湖北强对流天气致多人死亡！雷暴大风防御指南→",
+          "summary": "据湖北省应急管理厅消息，6日晚，湖北东部多地遭遇强对流天气袭击。19时至23时，黄石、黄冈、鄂州、咸宁等地出现雷暴大风，53个乡镇风力达8至13级，其中2个乡镇达到13级，部分乡镇出现龙卷风。",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/sh/2026/07-07/10654323.shtml",
+          "publishedAt": "2026-07-07T06:32:57.000Z"
+        },
+        {
+          "id": "news-jbwqz5",
+          "type": "flood",
+          "mainTagKey": "flood",
+          "tags": [
+            "flood",
+            "impact-water"
+          ],
+          "title": "广东省水文局发布今年首个洪水红色预警",
+          "summary": "中新网广州7月7日电 (王坚 林思源)受上游来水影响，西江水位不断上涨，广东省水文局于7日8时升级发布西江封开河段洪水红色预警，这是该省今年首个洪水红色预警。",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/sh/2026/07-07/10654289.shtml",
+          "publishedAt": "2026-07-07T06:15:20.000Z"
+        },
+        {
+          "id": "news-y0b176",
+          "type": "typhoon",
+          "mainTagKey": "typhoon",
+          "tags": [
+            "typhoon",
+            "impact-traffic"
+          ],
+          "title": "受台风“美莎克”影响  重庆火车站停运列车28趟",
+          "summary": "中新网重庆7月7日电 (张旭)中国铁路成都局集团有限公司重庆车站(以下简称“重庆火车站”)7日发布消息称，受台风“美莎克”影响，重庆火车站共计停运列车28趟。",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/sh/2026/07-07/10654288.shtml",
+          "publishedAt": "2026-07-07T06:09:02.000Z"
+        },
+        {
+          "id": "news-7o0gbw",
+          "type": "rainstorm-strong",
+          "mainTagKey": "rainstorm-strong",
+          "tags": [
+            "rainstorm-strong",
+            "rainstorm-heavy",
+            "rainstorm-extreme",
+            "typhoon",
+            "flood",
+            "scope-local",
+            "scope-national",
+            "impact-water"
+          ],
+          "title": "广西贵港防汛防台风应急响应提升为一级 继续发布洪水红色预警",
+          "summary": "中新网贵港7月7日电(记者 黄艳梅)记者7日从广西贵港市有关部门获悉，受今年第10号台风“美莎克”影响，贵港市大部地区出现暴雨到大暴雨、局地特大暴雨，多条河流超警，预计郁江贵港水文站断面将于7月7日23时左右出现47.5米的洪峰水位，超警6.3米，防汛形势十分严峻。",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/sh/2026/07-07/10654286.shtml",
+          "publishedAt": "2026-07-07T06:05:16.000Z"
+        },
+        {
+          "id": "news-iekf7f",
+          "type": "rainstorm-strong",
+          "mainTagKey": "rainstorm-strong",
+          "tags": [
+            "rainstorm-strong",
+            "typhoon",
+            "flood",
+            "scope-basin",
+            "impact-water"
+          ],
+          "title": "众星捐赠善款物资驰援广西",
+          "summary": "中新网北京7月7日电 受台风“美莎克”影响，近期珠江流域广西等地遭遇极端暴雨洪水。广西南宁市、贵港市多座水库发生险情，灾情牵动人心。截至目前，已有二十多位艺人为广西捐款捐物。",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/cul/2026/07-07/10654279.shtml",
+          "publishedAt": "2026-07-07T05:53:04.000Z"
+        },
+        {
+          "id": "news-xzpm6a",
+          "type": "agriculture-risk",
+          "mainTagKey": "agriculture-risk",
+          "tags": [
+            "agriculture-risk",
+            "impact-agriculture",
+            "season-summer-farm"
+          ],
+          "title": "刘国中在安徽调研时强调 全力以赴夺取夏粮丰收 全面打牢秋粮生产基础",
+          "summary": "新华社合肥6月5日电 中共中央政治局委员、国务院副总理刘国中3日至5日到安徽调研“三夏”农业生产工作。他强调，要深入学习贯彻习近平总书记关于国家粮食安全的重要论述，按照党中央、国务院部署，扛稳政治责任，毫不放松抓好夏收夏种夏管，全力以赴夺取夏粮丰收，全面打牢秋粮生产基础，确保完成全年粮食生产目标任务。 刘国中先后来到宿州市、淮南市、六安市，深入小麦机收和夏播现场、农机跨区作业服务点、农事服务中心、粮食仓储中心、地方农科院等，实地察看夏收夏种、农机作业服务保障、粮食烘干收储等工作，详细了解农作物新品种选育、大面积单产提升、农资保供稳价、高标准农田建设等情况。 刘国中强调，“三夏”工作抓得好不好，事关全年粮食生产目标任务能否顺利实现。当前正值“三夏”农业生产关键时期，要抓住有利天气抢晴收获，组织好农机跨区作业，强化服务保障和安全管理，确保夏收高效进行。要抓实抓牢机收减损、烘干晾晒等各项措施，最大程度减少粮食损失。要精心做好夏粮收购工作，引导各类企业积极入市，保障粮食市场平稳运行。要压茬推进夏播，加强农资供应和农事服务，强化技术集成及推广应用，落实落细合理密植、精量播种等大面积单产提升措施，",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494881.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-adx62q",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave",
+            "drought",
+            "scope-basin",
+            "impact-power"
+          ],
+          "title": "微视频｜共建清洁美丽世界",
+          "summary": "showPlayer({scriptId: 'q_v_j-w1vevxy26kp', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749096524371228/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1749096524371228/picture/prescreen.png',width: 800,height: 450,type: 1}); 近年来，全球多地出现高温热浪、严重干旱、致命洪灾等极端天气事件。以人类共同的前途命运为怀，习近平主席曾在多个国际场合发出真诚呼吁。 在巴西亚马孙流域，中巴合作建设的美丽山特高压输电项目，不仅帮助这里解决清洁水电长距离外送和消纳难题，还恢复了沿线森林植被面积多达200公顷，一些地区出现了狐狸等野生动物。 发出减碳承诺、分享治理经验、探索合作之路，中国以实",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494643.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-9ku2qp",
+          "type": "scope-national",
+          "mainTagKey": "scope-national",
+          "tags": [
+            "scope-national"
+          ],
+          "title": "多地升级信用修复服务 助力经营主体重塑良好信用",
+          "summary": "健全信用修复制度是经营主体信用体系建设的重要内容，是当事人申请解除惩戒措施、重塑信用的制度保障。今年以来，多地深入贯彻党中央、国务院关于全面深化改革、优化营商环境的决策部署，推动企业数据填报“高效办成一件事”和市场监管领域统一信用修复落地见效。 多地完善相关政策 2021年8月，市场监管总局公布《市场监督管理信用修复管理办法》，推动解决信息公示期限较长、信用修复机制不健全等问题。今年以来，在全面深化改革、优化营商环境的大背景下，信用修复再次成为高频词。 在北京，为进一步优化营商环境，北京市市场监管局自2025年起全面升级信用修复服务，通过机制创新、流程优化、精准帮扶等创新举措，今年第一季度已助力6万户企业通过信用修复重塑良好信用。北京市市场监管局信用处副处长丁学雷介绍，为帮助经营主体纾困解难，激发市场活力，北京市市场监管局建立健全常态化信用修复机制，依法依规实现“能修必修、应修尽修”，助力经营主体重塑良好信用。 在江西，各级市场监管部门积极宣传推广市场监管信用修复全国统一平台，引导经营主体通过该平台申请信用修复，并探索推行容缺受理、并联修复等模式，利用各渠道精准推送修复提醒，切实为经营",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494480.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-uxln1h",
+          "type": "scope-basin",
+          "mainTagKey": "scope-basin",
+          "tags": [
+            "scope-basin"
+          ],
+          "title": "习近平总书记关切事｜我们的名字叫“长江”——三个沿江村庄的变迁故事",
+          "summary": "长江，中华民族的母亲河—— 发源于青藏高原，汇百川入海，滋养了源远流长的中华文明，是中华民族发展的重要支撑。 习近平总书记指出，长江拥有独特的生态系统，是我国重要的生态宝库。当前和今后相当长一个时期，要把修复长江生态环境摆在压倒性位置，共抓大保护，不搞大开发。 从长江源头到中游、再到下游，那些以“长江”为名的村庄同饮一江水，共护母亲河。近日，记者来到长江上中下游的三个长江村，聆听这些依江而生、因江而兴的村落唱响新时代“长江之歌”。 搬，还母亲河一方清净 【坐标：青海省格尔木市长江源村】夏日阳光下，房屋的红屋顶、白院墙与一排排高大的杨树相互映衬。村中小湖湛蓝，游客快活地露营、戏水，湖畔时尚的咖啡馆里，人们惬意休息。 这里是青海省海西蒙古族藏族自治州格尔木市长江源村。 在搬到这里前，长江源村的村民世代居住在平均海拔超4500米的唐古拉山，在长江源头过着近乎与世隔绝的游牧生活。 随着牛羊增多，草原不堪重负，昔日养活三四百头牦牛的草场，变得百头都喂不饱。更令人忧心的是，草场退化直接导致长江源生态恶化，土地沙化、遍地鼠洞，自然灾害频发。 “黑乎乎的鼠洞像是打在心里，看了让人难受。我们不能把这样的",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494460.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "warningCount": 22,
+        "newsCount": 35,
+        "duration": 1247
+      }
+    },
+    "2026-07-08": {
+      "date": "2026-07-08",
+      "capturedAt": "2026-07-08T00:00:56.932Z",
+      "warnings": [
+        {
+          "id": "101090101-10109010120260707160003281993657-2026-07-07T16:00+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "河北省气象台发布高温橙色预警",
+          "location": [
+            114.5149,
+            38.0428
+          ],
+          "province": "石家庄",
+          "provinceCode": 130000,
+          "severity": "orange",
+          "source": "河北省气象台",
+          "publishedAt": "2026-07-07T08:00:00.000Z",
+          "summary": "河北省气象台2026年07月07日15时59分发布高温橙色预警信号：预计8日白天，保定南部、石家庄、衡水西部、邢台、邯郸等地的大部分地区最高气温可达36～39℃。请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101100101-10110010120260707103500341279800-2026-07-07T10:35+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "山西省气象台发布高温黄色预警",
+          "location": [
+            112.5489,
+            37.8706
+          ],
+          "province": "太原",
+          "provinceCode": 140000,
+          "severity": "yellow",
+          "source": "山西省气象台",
+          "publishedAt": "2026-07-07T02:35:00.000Z",
+          "summary": "山西省气象台2026年07月07日10时35分变更高温黄色预警，预警区域：忻州市的盆地和西部河谷、太原市和晋中市的盆地、吕梁东南部和西部河谷、阳泉市东部、临汾市的盆地和西部河谷、运城市、长治市东北部。预计7-9日连续三天预警区域内日最高气温将在35℃以上，其中临运盆地、西部河谷及晋中盆地等地的局部地区最高气温将达37℃以上。请有关单位和人员做好防范准备。防御指南：1有关部门和单位按照职责做好防暑降温准备工作；2午后尽量减少户外活动；3对老、弱、病、幼人群提供防暑降温指导；4高温条件下作业和白天需要长时间进行户外露天作业的人员应当采取必要的防护措施。",
+          "detailUrl": null
+        },
+        {
+          "id": "101060101-10106010120260707190000850824109-2026-07-07T19:00+08:00",
+          "type": "flash-flood",
+          "rawType": "山洪灾害气象风险",
+          "title": "吉林省水利厅和吉林省气象局联合发布山洪灾害气象风险黄色预警",
+          "location": [
+            125.3245,
+            43.8868
+          ],
+          "province": "长春",
+          "provinceCode": 220000,
+          "severity": "yellow",
+          "source": "吉林省水利厅、吉林省气象局",
+          "publishedAt": "2026-07-07T11:00:00.000Z",
+          "summary": "吉林省水利厅和吉林省气象局2026年7月7日19时联合发布山洪灾害气象风险黄色预警：预计，7月7日20时至7月8日20时，白山市抚松县、浑江区、江源区、靖宇县、临江市，梅河口市，通化市、辉南县、集安市、柳河县、通化县发生山洪灾害可能性较大；白山市长白县，吉林市桦甸市、蛟河市、磐石市，辽源市东丰县，延边州敦化市，长白山管委会可能发生山洪灾害；其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。",
+          "detailUrl": null
+        },
+        {
+          "id": "101060101-10106010120260707183000788490423-2026-07-07T18:30+08:00",
+          "type": "other",
+          "rawType": "洪涝灾害气象风险",
+          "title": "吉林省水利厅和吉林省气象局联合发布洪涝灾害气象风险蓝色预警",
+          "location": [
+            125.3245,
+            43.8868
+          ],
+          "province": "长春",
+          "provinceCode": 220000,
+          "severity": "blue",
+          "source": "吉林省水利厅、吉林省气象局",
+          "publishedAt": "2026-07-07T10:30:00.000Z",
+          "summary": "吉林省水利厅和吉林省气象局2026年07月07日18时30分联合发布洪涝灾害气象风险蓝色预警：预计未来24小时，辽源南部、吉林东部和南部、通化、白山有可能发生江河洪水、农田渍涝等洪涝灾害。建议相关单位或部门密切监测降雨和洪涝灾害发生发展情况，加强防范，适时启动预案，确保人员安全。",
+          "detailUrl": null
+        },
+        {
+          "id": "101060101-10106010120260707172500754543969-2026-07-07T17:25+08:00",
+          "type": "rainstorm",
+          "rawType": "暴雨",
+          "title": "吉林省气象台发布暴雨蓝色预警",
+          "location": [
+            125.3245,
+            43.8868
+          ],
+          "province": "长春",
+          "provinceCode": 220000,
+          "severity": "blue",
+          "source": "吉林省气象台",
+          "publishedAt": "2026-07-07T09:25:00.000Z",
+          "summary": "吉林省气象台2026年07月07日17时25分发布暴雨蓝色预警：预计未来24小时，辽源南部、吉林东部和南部、通化、白山有大到暴雨，部分地方有大暴雨。省应急管理厅、省气象局联合提醒注意做好预防工作。",
+          "detailUrl": null
+        },
+        {
+          "id": "101230101-10123010120260707102500222043623-2026-07-07T10:25+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "福州市气象台发布高温橙色预警信号",
+          "location": [
+            119.2965,
+            26.0745
+          ],
+          "province": "福州",
+          "provinceCode": 350000,
+          "severity": "orange",
+          "source": "福州市气象台",
+          "publishedAt": "2026-07-07T02:25:00.000Z",
+          "summary": "福州市气象台2026年07月07日10时25分继续发布高温橙色预警信号：预计今天鼓楼区（安泰街道、五凤街道、温泉街道等），台江区（茶亭街道、瀛洲街道、苍霞街道等），晋安区（新店镇、岳峰镇、王庄街道等），仓山区（盖山镇、建新镇、城门镇等），马尾区（罗星街道、马尾镇）最高气温可达36～38℃，局部超过38℃。请有关单位和人员注意做好防暑降温工作，特别是户外或者高温条件下的作业人员应当采取必要的防护措施！",
+          "detailUrl": null
+        },
+        {
+          "id": "101240101-10124010120260707091100922860399-2026-07-07T09:11+08:00",
+          "type": "strong-wind",
+          "rawType": "大风",
+          "title": "南昌市气象台2026年07月07日09时11分发布大风蓝色预警信号。",
+          "location": [
+            115.8921,
+            28.6765
+          ],
+          "province": "南昌",
+          "provinceCode": 360000,
+          "severity": "blue",
+          "source": "南昌市气象台",
+          "publishedAt": "2026-07-07T01:11:00.000Z",
+          "summary": "南昌市气象台2026年07月07日09时11分发布大风蓝色预警信号：预计未来24小时内，受偏南急流影响，我市部分地区的江湖水面、平原河谷和高海拔山区阵风可达7-8级，请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101180101-10118010120260708060400121841404-2026-07-08T06:04+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "郑州市气象台发布高温橙色预警",
+          "location": [
+            113.6253,
+            34.7466
+          ],
+          "province": "郑州",
+          "provinceCode": 410000,
+          "severity": "orange",
+          "source": "郑州市气象台",
+          "publishedAt": "2026-07-07T22:04:00.000Z",
+          "summary": "郑州市气象台2026年7月8日6时4分发布高温橙色预警信号：预计今天12时至17时，郑州市主城区、上街区、航空港区所辖乡镇及街道最高气温将升至37℃以上，请注意防范高温天气带来的不利影响。防御指南：1.政府及相关部门应按照职责落实防暑降温保障措施。2.尽量避免在高温时段进行户外活动，高温条件下作业的人员应当缩短连续工作时间。3.对老、弱、病、幼人群提供防暑降温指导，并采取必要的防护措施。4.有关部门和单位应当注意防范因用电量过高，以及电线、变压器等电力负载过大而引发的火灾。",
+          "detailUrl": null
+        },
+        {
+          "id": "101250101-10125010120260707161500817777752-2026-07-07T16:15+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "湖南省气象局发布高温黄色预警",
+          "location": [
+            112.9388,
+            28.2282
+          ],
+          "province": "长沙",
+          "provinceCode": 430000,
+          "severity": "yellow",
+          "source": "湖南省气象台",
+          "publishedAt": "2026-07-07T08:15:00.000Z",
+          "summary": "湖南省气象台2026年7月7日16时发布高温黄色预警：预计8日白天，湘中、湘北部分地区有35℃以上高温，其中张家界东部、常德西北部局部地区将达37℃以上，请做好防范。黄色预警区域：长沙中西部、湘西州、张家界、常德、益阳、岳阳部分地区、怀化中北部、娄底西部。",
+          "detailUrl": null
+        },
+        {
+          "id": "101300101-10130010120260707093000500115067-2026-07-07T09:30+08:00",
+          "type": "rainstorm",
+          "rawType": "暴雨",
+          "title": "广西壮族自治区气象台更新暴雨橙色预警信号",
+          "location": [
+            108.3669,
+            22.817
+          ],
+          "province": "南宁",
+          "provinceCode": 450000,
+          "severity": "orange",
+          "source": "广西壮族自治区气象台",
+          "publishedAt": "2026-07-07T01:30:00.000Z",
+          "summary": "广西区气象台2026年07月07日09时30分继续发布暴雨橙色预警，预计：未来24小时，防城港、钦州、贵港、玉林、北海、梧州等市及南宁、来宾两市东部有大雨到暴雨、局地大暴雨或特大暴雨并伴有短时雷暴大风等强对流天气。请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101310101-10131010120260708052531829877985-2026-07-08T05:25+08:00",
+          "type": "thunder",
+          "rawType": "雷电",
+          "title": "海口市气象台发布雷电黄色预警信号",
+          "location": [
+            110.3312,
+            20.0319
+          ],
+          "province": "海口",
+          "provinceCode": 460000,
+          "severity": "yellow",
+          "source": "海口市气象台",
+          "publishedAt": "2026-07-07T21:25:00.000Z",
+          "summary": "海口市气象台2026年07月08日05时25分发布雷电黄色预警信号：受对流云团影响，我市08日05时25分到09时可能发生雷电活动，可能会出现雷电灾害事故，建议有关单位和人员做好防范工作。",
+          "detailUrl": null
+        },
+        {
+          "id": "101110101-10111010120260707112427828274803-2026-07-07T11:24+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "陕西省气象台发布高温黄色预警",
+          "location": [
+            108.9398,
+            34.3416
+          ],
+          "province": "西安",
+          "provinceCode": 610000,
+          "severity": "yellow",
+          "source": "陕西省气象台",
+          "publishedAt": "2026-07-07T03:24:00.000Z",
+          "summary": "陕西省气象台2026年07月07日10时00分继续发布高温黄色预警：受下沉增温和辐射增温影响，预计7月7日陕北黄河沿线、关中平原、陕南河谷部分地方有35℃以上的高温天气，其中榆林南部局地、宝鸡中部、咸阳南部、西安大部、渭南大部、汉中河谷局地、安康东部局地最高气温可达37℃以上，渭南南部局地、安康南部局地最高气温可达40℃。7月8日陕北中东部、关中平原大部、陕南河谷部分地方有35℃以上的高温天气，其中榆林东部局地、延安东北部局地、宝鸡中部、咸阳南部、西安大部、渭南大部、汉中中部、安康中南部可达37℃以上，局地最高气温可达40℃。",
+          "detailUrl": null
+        },
+        {
+          "id": "101110101-10111010120260707090516669898961-2026-07-07T09:05+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "西安市气象台发布高温橙色预警",
+          "location": [
+            108.9398,
+            34.3416
+          ],
+          "province": "西安",
+          "provinceCode": 610000,
+          "severity": "orange",
+          "source": "西安市气象台",
+          "publishedAt": "2026-07-07T01:05:00.000Z",
+          "summary": "西安市气象台2026年07月07日09时05分继续发布高温橙色预警信号：预计未来24小时内新城区、碑林区、莲湖区、雁塔区、灞桥区、未央区、阎良区、临潼区、长安区、高陵区、鄠邑区、周至县、蓝田县、西咸新区的部分乡镇（街道）最高气温将升至37℃以上，请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101110101-10111010120260703170817288255729-2026-07-03T17:08+08:00",
+          "type": "agriculture-risk",
+          "rawType": "农业气象风险",
+          "title": "陕西省农业农村厅发布农业气象风险",
+          "location": [
+            108.9398,
+            34.3416
+          ],
+          "province": "西安",
+          "provinceCode": 610000,
+          "severity": "blue",
+          "source": "陕西省农业农村厅",
+          "publishedAt": "2026-07-03T09:08:00.000Z",
+          "summary": "陕西省气象局与陕西省农业农村厅7月3日联合发布猕猴桃高温热害风险预警：当前我省猕猴桃处于果实膨大期。预计7月5日至9日我省关中、陕南猕猴桃产区将有一次35℃以上高温过程，部分地方有37℃以上高温，局地可达40℃以上。西安南部、宝鸡东部、咸阳南部、渭南南部、陕南河谷地带猕猴桃高温热害风险较高，西安周至县、宝鸡眉县、渭南临渭区猕猴桃高温热害风险高。建议：各猕猴桃种植果园利用喷滴灌科学调控水分与温度；综合运用搭建遮阳网、保留枝叶等强化遮阳防晒，预防日灼灾害；加强地表覆盖，减少地表水分蒸发及热量反射，同时，调节果园小气候，保障树势稳定与果实安全。",
+          "detailUrl": null
+        },
+        {
+          "id": "101150101-10115010120260707145019359671941-2026-07-07T14:50+08:00",
+          "type": "convection",
+          "rawType": "强对流",
+          "title": "西宁市气象台发布强对流蓝色预警",
+          "location": [
+            100.9018,
+            36.4828
+          ],
+          "province": "西宁",
+          "provinceCode": 630000,
+          "severity": "blue",
+          "source": "西宁市气象台",
+          "publishedAt": "2026-07-07T06:50:00.000Z",
+          "summary": "西宁市气象台2026年07月07日14时50分发布强对流蓝色预警：预计07月07日14时50分至08日14时50分，西宁市区、湟中区、大通县、湟源县将出现8级以上雷暴大风，局地伴有冰雹，强对流天气主要集中在07日15时至08日02时，发生雹灾、风灾、雷击等灾害的气象风险较高，请注意防范。防御指南：1.政府及相关部门按照职责做好防雷、防大风准备工作，做好人工防雹作业准备；2.户外行人和工作人员减少户外活动，注意远离棚架广告牌等搭建物；3.驱赶家禽、牲畜进入有顶篷的场所，关好门窗加固棚舍；4.工地注意遮盖建筑物资，妥善安置易受风雹影响的室外物品。",
+          "detailUrl": null
+        },
+        {
+          "id": "101170101-10117010120260707154600488365676-2026-07-07T15:46+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "银川市气象台发布高温黄色预警",
+          "location": [
+            106.2309,
+            38.4872
+          ],
+          "province": "银川",
+          "provinceCode": 640000,
+          "severity": "yellow",
+          "source": "银川市气象台",
+          "publishedAt": "2026-07-07T07:46:00.000Z",
+          "summary": "【预警信息发布中心】银川市气象台2026年07月07日15时46分发布高温黄色预警信号:预计8日午后，兴庆区、金凤区、西夏区、贺兰县、永宁县、灵武市有35℃或以上高温天气，请相关部门和广大群众注意预防。",
+          "detailUrl": null
+        }
+      ],
+      "news": [
+        {
+          "id": "news-r1pu5j",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "澳央行预计四季度通胀水平达峰值",
+          "summary": "澳大利亚储备银行（央行）日前发表月度货币政策声明表示，澳通胀水平或将在今年第四季度达到8%左右的峰值，并表示连续加息是遏制高通胀的必要手段。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/07/c_1129190562.htm",
+          "publishedAt": "2026-07-08T00:00:56.462Z"
+        },
+        {
+          "id": "news-7bxg8h",
+          "type": "rainstorm-strong",
+          "mainTagKey": "rainstorm-strong",
+          "tags": [
+            "rainstorm-strong",
+            "flash-flood",
+            "landslide",
+            "temp-night"
+          ],
+          "title": "刚果（金）首都暴雨致141人死亡",
+          "summary": "刚果（金）首都金沙萨12日夜间至13日凌晨遭遇暴雨，多个地区发生洪涝和山体滑坡，导致至少141人死亡。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/14/c_1129206388.htm",
+          "publishedAt": "2026-07-08T00:00:56.461Z"
+        },
+        {
+          "id": "news-ike7mx",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "全球连线｜“基于自然的解决方案”亚洲案例征集活动在COP15上启动",
+          "summary": "在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议期间，亚洲开发银行携手清华大学气候变化与可持续发展研究院启动“基于自然的解决方案”亚洲优秀实践案例征集活动。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/11/c_1129200178.htm",
+          "publishedAt": "2026-07-08T00:00:56.461Z"
+        },
+        {
+          "id": "news-y4j6pe",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "“基于自然的解决方案”亚洲案例征集活动在COP15上启动",
+          "summary": "在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议期间，亚洲开发银行携手清华大学气候变化与可持续发展研究院启动“基于自然的解决方案”亚洲优秀实践案例征集活动。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/10/c_1129198181.htm",
+          "publishedAt": "2026-07-08T00:00:56.461Z"
+        },
+        {
+          "id": "news-4iy3bz",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "scope-national"
+          ],
+          "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
+          "summary": "今天（12月14日），全国大部降水仍稀少，雨雪零散分布，冷空气影响也进入尾声阶段。不过，从明天开始，新一轮实力更强的冷空气接踵而至，将率先从新疆北部展开，随后逐渐给我国大部地区带来大风降温天气，同时西南、江汉等地降水也将增多。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-rlx13t",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave",
+            "cold-air",
+            "temp-continuous",
+            "temp-afternoon"
+          ],
+          "title": "北京今天最高温0℃山区有零星小雪 明起三天冷空气又将来降温",
+          "summary": "今天（12月14日），北京气温将有所回升，最高气温0℃，下午天空云量增多，山区有零星小雪。明起三天，又有冷空气影响北京，北风将再度增大，气温逐渐下降。本周冷空气频繁，气温持续较低，公众请注意防寒保暖。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206415.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-6rqct7",
+          "type": "scope-basin",
+          "mainTagKey": "scope-basin",
+          "tags": [
+            "scope-basin"
+          ],
+          "title": "新时代新征程新伟业｜大河上下满目新——贯彻落实党的二十大精神加强黄河流域生态保护观察",
+          "summary": "万里黄河，奔流不息。大河上下，焕然一新。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/13/c_1129204883.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-zgdq2v",
+          "type": "scope-basin",
+          "mainTagKey": "scope-basin",
+          "tags": [
+            "scope-basin",
+            "impact-water",
+            "temp-continuous"
+          ],
+          "title": "长江流域“抗旱会战”告一段落",
+          "summary": "12月8日，湖南省水利厅解除水旱灾害防御三级应急响应，这是长江流域今年最后一个宣告解除的省级水旱灾害防御应急响应。至此，持续近4个月的长江流域“抗旱会战”告一段落。随着近期迎来数轮降雨，长江流域各地抗旱应急响应目前已经解除。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/13/c_1129204698.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-xka72i",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "cold-air",
+            "scope-national",
+            "temp-continuous"
+          ],
+          "title": "北方多地遭遇沙尘天气 冬季发生沙尘暴正常吗？",
+          "summary": "12日，冷空气裹挟着沙尘影响北方多地，中央气象台继续发布沙尘暴蓝色预警。气象预报显示，未来十天，冷空气活动频繁且势力较强，除青藏高原外，我国大部地区平均气温较常年同期持续明显偏低。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129203259.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-wyu7xf",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave",
+            "drought",
+            "scope-local",
+            "scope-national",
+            "temp-continuous"
+          ],
+          "title": "新华时评：稳住压舱石 吃下定心丸",
+          "summary": "国家统计局12日发布数据，2022年全国粮食总产量13731亿斤，比上年增加74亿斤，粮食产量连续8年稳定在1.3万亿斤以上。我们克服了北方罕见秋汛导致冬小麦晚播、局部发生新冠肺炎疫情和南方持续高温干旱等不利因素影响，全年粮食实现增产丰收。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129203241.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-x8iegl",
+          "type": "gale",
+          "mainTagKey": "gale",
+          "tags": [
+            "gale",
+            "strong-wind",
+            "gust",
+            "scope-local"
+          ],
+          "title": "大风沙尘双预警生效中！北京今日大风伴沙尘阵风将达6至7级",
+          "summary": "今晨，北京大风呼啸，06时，部分地区极大风速已达6～7级，西部部分山区阵风甚至达到10级左右，目前，大风和沙尘蓝色预警信号同时生效中。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129200817.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-wrgs2e",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "strong-wind",
+            "cold-air",
+            "blowing-sand",
+            "dust-float",
+            "scope-local"
+          ],
+          "title": "沙尘暴蓝色预警继续！京津冀等部分地区将现扬沙或浮尘天气",
+          "summary": "受冷空气大风影响，预计12月12日08时至13日08时，内蒙古中西部、甘肃、宁夏、陕西北部、山西中北部、河北中北部、北京、天津以及新疆塔里木盆地等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129200807.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-805zj",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "strong-wind",
+            "cold-air",
+            "blowing-sand",
+            "dust-float",
+            "scope-local",
+            "scope-national"
+          ],
+          "title": "沙尘暴蓝色预警继续！山西河北等8省区有扬沙或浮尘天气",
+          "summary": "受冷空气大风影响，预计12月11日08时至12日08时，新疆东部和南疆盆地、青海北部和西南部、内蒙古西部、甘肃大部、宁夏、陕西中北部、山西、河北西部等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/11/c_1129199534.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-y9vkxa",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air"
+          ],
+          "title": "应急管理部提示：做好近期冷空气过程防范应对",
+          "summary": "针对近期冷空气过程，应急管理部于10日向受影响的25个省份发出提示，要求落实落细低温雨雪冰冻天气应对各项措施，全力保障人民群众生命财产安全。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129198883.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-hq7cjs",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air",
+            "scope-national"
+          ],
+          "title": "三股冷空气先后入侵 中东部气温将一路走低",
+          "summary": "中央气象台10日发布，近期影响我国的冷空气活动频繁，先后有三股冷空气入侵，北风占主导，中东部地区的气温将一路走低，气温零度线也将往南扩张；同时雨雪天气较弱，全国大部地区干燥多风。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129198294.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-mum0a",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "strong-wind",
+            "cold-air",
+            "blowing-sand",
+            "dust-float",
+            "scope-local",
+            "scope-national"
+          ],
+          "title": "沙尘暴蓝色预警继续！山西河北等8省区有扬沙或浮尘天气",
+          "summary": "受冷空气大风影响，预计12月11日08时至12日08时，新疆东部和南疆盆地、青海北部和西南部、内蒙古西部、甘肃大部、宁夏、陕西中北部、山西、河北西部等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/11/c_1129199540.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-osfizx",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "scope-local",
+            "scope-regional"
+          ],
+          "title": "冷空气将携大风降温来袭 明天江苏部分地区最低温跌至冰点附近",
+          "summary": "今明两天（12月10日至11日），受冷空气影响，江苏将出现大风降温天气过程，全省最低气温将明显下降，预计明天部分地区最低气温都将跌至冰点附近，风寒效应明显，公众需厚装护体。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129197667.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-ou2ws0",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air",
+            "scope-national",
+            "temp-night"
+          ],
+          "title": "黑龙江周末两天晴天为主 11日夜间开始雨雪又上线",
+          "summary": "周末两天（12月10日至11日），黑龙江大部地区晴天唱主调，天气舞台总体平静。但冷空气即将“复工”，眼前的平静状态也将被打破，预计11日夜间开始到12日，黑龙江大部地区雨雪再登场，公众需关注临近预报，提前做好相关防范措施。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129197664.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-sntc0k",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air",
+            "gust",
+            "scope-local",
+            "impact-traffic",
+            "impact-tourism"
+          ],
+          "title": "冷空气开工！北京北风在线阵风可达7级 风寒效应明显需保暖",
+          "summary": "冷空气又来了！今天（12月10日），北京虽然天气晴朗，但北风在线，部分地区阵风可达7级左右，风寒效应明显，公众出行需注意保暖避风。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129197503.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-2x6lpu",
+          "type": "impact-agriculture",
+          "mainTagKey": "impact-agriculture",
+          "tags": [
+            "impact-agriculture"
+          ],
+          "title": "国台办：所谓大陆暂停进口台湾午仔鱼等水产品的报道与事实不符",
+          "summary": "近日岛内媒体称大陆无预警禁止进口台湾午仔鱼、秋刀鱼等水产品，台陆委会声称将表达严正抗议。国台办发言人朱凤莲9日答记者问表示，所谓大陆暂停进口台湾午仔鱼、秋刀鱼、鱿鱼等水产品的报道与事实不符，所谓“严正抗议”更是无理取闹。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129196946.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-jg583r",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "scope-local",
+            "scope-national"
+          ],
+          "title": "今起两股冷空气将接踵而至 全国大部雨雪稀少",
+          "summary": "今天（12月9日）开始，冷空气又将活跃起来，其中今天至11日以及12日至14日将有两股冷空气接踵而至，影响均以大风、降温为主，东北等地累计降温幅度大，局地可达10℃以上。此外，今后三天，我国大部地区雨雪稀少的天气格局将延续，雨水主要集中在江南、西南等地。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129194024.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-v7wqjd",
+          "type": "gale",
+          "mainTagKey": "gale",
+          "tags": [
+            "gale",
+            "gust",
+            "scope-local"
+          ],
+          "title": "浙江今明天小雨淅沥阳光难觅 沿海海面风力较大局部阵风可达10级",
+          "summary": "今明两天（12月9日至10日），浙江天气舞台的关键词仍是阴雨，虽然普遍以淅淅沥沥的小雨为主，但天空云层较厚，阳光难觅，平添了一份冬日的阴沉感。此外，未来三天，浙江中部沿海海面、南部沿海海面等东北风明显，阵风逐渐增强至10级左右，海上作业人员需关注预报预警，及时回港避风。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129193881.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-voekc7",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "snow",
+            "impact-outdoor"
+          ],
+          "title": "今天前半夜北京山区有弱降雪 后半夜至明天白天大风降温来袭",
+          "summary": "今天（12月9日）白天，北京天气平稳，以晴到多云天气为主，前半夜山区有零星小雪或小雪，后半夜至明天白天大风降温来袭，户外风寒效应较明显，需注意防范。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129193872.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-gxbrci",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air"
+          ],
+          "title": "今天北京昼夜温差达12℃早晚冷意十足 明后天冷空气又来报到",
+          "summary": "今天（12月8日）北京最高气温7℃，空气依然干燥，昼夜温差达到12℃，早晚体感冷意十足。明后天又有冷空气报到，北京气温再度波动。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/08/c_1129190950.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-h9z0zt",
+          "type": "scope-regional",
+          "mainTagKey": "scope-regional",
+          "tags": [
+            "scope-regional",
+            "scope-national",
+            "impact-traffic",
+            "impact-tourism"
+          ],
+          "title": "今明天广东晴朗在线 早晚仍寒凉需添衣保暖",
+          "summary": "今明两天（12月8日至9日），广东大部地区将维持晴朗的天气格局，不过受晴空辐射影响，全省昼夜温差较大，尤其是粤北地区最低气温不足10℃，早晚出行仍需厚装护体。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/08/c_1129190948.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-hrkfzd",
+          "type": "cold-wave",
+          "mainTagKey": "cold-wave",
+          "tags": [
+            "cold-wave",
+            "snow",
+            "scope-national"
+          ],
+          "title": "全国入冬进程图：大雪节气开启仲冬时节",
+          "summary": "11月26日至12月1日，我国大部地区经历了今冬以来最强寒潮。在其推动下，冬季的版图急剧扩张。截至目前，我国约四分之三国土被冬季覆盖。你那里是冬天了吗？",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/08/c_1129190937.htm",
+          "publishedAt": "2026-07-08T00:00:56.430Z"
+        },
+        {
+          "id": "news-4fql2x",
+          "type": "impact-tourism",
+          "mainTagKey": "impact-tourism",
+          "tags": [
+            "impact-tourism",
+            "temp-continuous"
+          ],
+          "title": "红色旅游热度持续升温，沉浸式体验深受年轻人喜爱",
+          "summary": "红色旅游“正青春”",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/life/2026/07-08/10654744.shtml",
+          "publishedAt": "2026-07-07T23:41:34.000Z"
+        },
+        {
+          "id": "news-y2gvye",
+          "type": "impact-water",
+          "mainTagKey": "impact-water",
+          "tags": [
+            "impact-water"
+          ],
+          "title": "盯紧压实责任全力抢险救援 最大限度减少人员伤亡——习近平总书记重要指示为各地各部门防汛救灾吹响集结号发出动员令",
+          "summary": "新华社北京7月7日电 题：盯紧压实责任全力抢险救援 最大限度减少人员伤亡——习近平总书记重要指示为各地各部门防汛救灾吹响集结号发出动员令",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/gn/2026/07-08/10654713.shtml",
+          "publishedAt": "2026-07-07T18:08:05.000Z"
+        },
+        {
+          "id": "news-xzpm6a",
+          "type": "agriculture-risk",
+          "mainTagKey": "agriculture-risk",
+          "tags": [
+            "agriculture-risk",
+            "impact-agriculture",
+            "season-summer-farm"
+          ],
+          "title": "刘国中在安徽调研时强调 全力以赴夺取夏粮丰收 全面打牢秋粮生产基础",
+          "summary": "新华社合肥6月5日电 中共中央政治局委员、国务院副总理刘国中3日至5日到安徽调研“三夏”农业生产工作。他强调，要深入学习贯彻习近平总书记关于国家粮食安全的重要论述，按照党中央、国务院部署，扛稳政治责任，毫不放松抓好夏收夏种夏管，全力以赴夺取夏粮丰收，全面打牢秋粮生产基础，确保完成全年粮食生产目标任务。 刘国中先后来到宿州市、淮南市、六安市，深入小麦机收和夏播现场、农机跨区作业服务点、农事服务中心、粮食仓储中心、地方农科院等，实地察看夏收夏种、农机作业服务保障、粮食烘干收储等工作，详细了解农作物新品种选育、大面积单产提升、农资保供稳价、高标准农田建设等情况。 刘国中强调，“三夏”工作抓得好不好，事关全年粮食生产目标任务能否顺利实现。当前正值“三夏”农业生产关键时期，要抓住有利天气抢晴收获，组织好农机跨区作业，强化服务保障和安全管理，确保夏收高效进行。要抓实抓牢机收减损、烘干晾晒等各项措施，最大程度减少粮食损失。要精心做好夏粮收购工作，引导各类企业积极入市，保障粮食市场平稳运行。要压茬推进夏播，加强农资供应和农事服务，强化技术集成及推广应用，落实落细合理密植、精量播种等大面积单产提升措施，",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494881.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-adx62q",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave",
+            "drought",
+            "scope-basin",
+            "impact-power"
+          ],
+          "title": "微视频｜共建清洁美丽世界",
+          "summary": "showPlayer({scriptId: 'q_v_j-w1vevxy26kp', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749096524371228/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1749096524371228/picture/prescreen.png',width: 800,height: 450,type: 1}); 近年来，全球多地出现高温热浪、严重干旱、致命洪灾等极端天气事件。以人类共同的前途命运为怀，习近平主席曾在多个国际场合发出真诚呼吁。 在巴西亚马孙流域，中巴合作建设的美丽山特高压输电项目，不仅帮助这里解决清洁水电长距离外送和消纳难题，还恢复了沿线森林植被面积多达200公顷，一些地区出现了狐狸等野生动物。 发出减碳承诺、分享治理经验、探索合作之路，中国以实",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494643.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-9ku2qp",
+          "type": "scope-national",
+          "mainTagKey": "scope-national",
+          "tags": [
+            "scope-national"
+          ],
+          "title": "多地升级信用修复服务 助力经营主体重塑良好信用",
+          "summary": "健全信用修复制度是经营主体信用体系建设的重要内容，是当事人申请解除惩戒措施、重塑信用的制度保障。今年以来，多地深入贯彻党中央、国务院关于全面深化改革、优化营商环境的决策部署，推动企业数据填报“高效办成一件事”和市场监管领域统一信用修复落地见效。 多地完善相关政策 2021年8月，市场监管总局公布《市场监督管理信用修复管理办法》，推动解决信息公示期限较长、信用修复机制不健全等问题。今年以来，在全面深化改革、优化营商环境的大背景下，信用修复再次成为高频词。 在北京，为进一步优化营商环境，北京市市场监管局自2025年起全面升级信用修复服务，通过机制创新、流程优化、精准帮扶等创新举措，今年第一季度已助力6万户企业通过信用修复重塑良好信用。北京市市场监管局信用处副处长丁学雷介绍，为帮助经营主体纾困解难，激发市场活力，北京市市场监管局建立健全常态化信用修复机制，依法依规实现“能修必修、应修尽修”，助力经营主体重塑良好信用。 在江西，各级市场监管部门积极宣传推广市场监管信用修复全国统一平台，引导经营主体通过该平台申请信用修复，并探索推行容缺受理、并联修复等模式，利用各渠道精准推送修复提醒，切实为经营",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494480.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-uxln1h",
+          "type": "scope-basin",
+          "mainTagKey": "scope-basin",
+          "tags": [
+            "scope-basin"
+          ],
+          "title": "习近平总书记关切事｜我们的名字叫“长江”——三个沿江村庄的变迁故事",
+          "summary": "长江，中华民族的母亲河—— 发源于青藏高原，汇百川入海，滋养了源远流长的中华文明，是中华民族发展的重要支撑。 习近平总书记指出，长江拥有独特的生态系统，是我国重要的生态宝库。当前和今后相当长一个时期，要把修复长江生态环境摆在压倒性位置，共抓大保护，不搞大开发。 从长江源头到中游、再到下游，那些以“长江”为名的村庄同饮一江水，共护母亲河。近日，记者来到长江上中下游的三个长江村，聆听这些依江而生、因江而兴的村落唱响新时代“长江之歌”。 搬，还母亲河一方清净 【坐标：青海省格尔木市长江源村】夏日阳光下，房屋的红屋顶、白院墙与一排排高大的杨树相互映衬。村中小湖湛蓝，游客快活地露营、戏水，湖畔时尚的咖啡馆里，人们惬意休息。 这里是青海省海西蒙古族藏族自治州格尔木市长江源村。 在搬到这里前，长江源村的村民世代居住在平均海拔超4500米的唐古拉山，在长江源头过着近乎与世隔绝的游牧生活。 随着牛羊增多，草原不堪重负，昔日养活三四百头牦牛的草场，变得百头都喂不饱。更令人忧心的是，草场退化直接导致长江源生态恶化，土地沙化、遍地鼠洞，自然灾害频发。 “黑乎乎的鼠洞像是打在心里，看了让人难受。我们不能把这样的",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494460.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-rxb5ub",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "把更多“问题清单”变为“履职清单”（干部感言）",
+          "summary": "当下，数字化正加快赋能政务服务，银川市顺势而为，在设立线下“办不成事”反映窗口的基础上，创新上线“办不成事”掌上反映窗口。用科技赋能民生服务，推动政务服务从“能办”到“好办”再到“智办”。 从简单事项的答复到疑难问题的化解，再到难办事项的办成，这个窗口以“兜底服务”的担当，将那些不容易办的民生诉求纳入服务框架，背后是政务服务体系兼顾“标准化”与“人性化”的有益探索。 小小窗口，大有乾坤。政务服务改革的深度，不仅体现在技术迭代的速度上，更取决于为民解忧的温度。把“办不成”的诉求变成“办得好”的实践，把群众的“问题清单”变为干部的“履职清单”，才能在解决具体问题中持续提升治理效能。 （作者为银川市审批服务管理局党组书记、局长，本报记者秦瑞杰采访整理） 《 人民日报 》（ 2025年06月03日 14 版）",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0603/c458474-40492815.html",
+          "publishedAt": "2025-06-03T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "warningCount": 16,
+        "newsCount": 33,
+        "duration": 921
+      }
+    },
+    "2026-07-09": {
+      "date": "2026-07-09",
+      "capturedAt": "2026-07-09T00:00:58.882Z",
+      "warnings": [
+        {
+          "id": "101030100-10103010020260709072114682727238-2026-07-09T07:21+08:00",
+          "type": "gust",
+          "rawType": "雷雨大风",
+          "title": "天津市气象台更新雷雨大风蓝色预警",
+          "location": [
+            117.1901,
+            39.1255
+          ],
+          "province": "天津",
+          "provinceCode": 120000,
+          "severity": "blue",
+          "source": "天津市气象台",
+          "publishedAt": "2026-07-08T23:21:00.000Z",
+          "summary": "天津市气象台于2026年07月09日07时19分继续发布雷雨大风蓝色预警信号：预计今天白天至夜间，天津中心城区有雷阵雨，降雨时阵风可达7-8级，局地雨强较大，并可能伴有小冰雹，请有关单位和人员做好防范准备。",
+          "detailUrl": null
+        },
+        {
+          "id": "101030100-10103010020260709015113437772928-2026-07-09T01:51+08:00",
+          "type": "strong-wind",
+          "rawType": "海上大风",
+          "title": "天津海洋中心气象台发布海上大风黄色预警",
+          "location": [
+            117.1901,
+            39.1255
+          ],
+          "province": "天津",
+          "provinceCode": 120000,
+          "severity": "yellow",
+          "source": "天津海洋中心气象台",
+          "publishedAt": "2026-07-08T17:51:00.000Z",
+          "summary": "天津海洋中心气象台于2026年07月09日01时53分发布海上大风黄色预警信号：受对流云团影响，预计未来6小时，天津港海域、南港海域、天津港锚地海域、渤海中部海域将有阵风8-10级，个别点11级以上，请有关单位和人员做好防范准备。",
+          "detailUrl": null
+        },
+        {
+          "id": "101090101-10109010120260709033657002170180-2026-07-09T03:36+08:00",
+          "type": "strong-wind",
+          "rawType": "雷暴大风",
+          "title": "河北省气象台发布雷暴大风黄色预警",
+          "location": [
+            114.5149,
+            38.0428
+          ],
+          "province": "石家庄",
+          "provinceCode": 130000,
+          "severity": "yellow",
+          "source": "河北省气象台",
+          "publishedAt": "2026-07-08T19:36:00.000Z",
+          "summary": "河北省气象台2026年07月09日03时35分发布雷暴大风黄色预警信号：预计未来6小时，保定、雄安新区、廊坊、石家庄中东部、沧州、衡水有雷阵雨，部分地区伴有8到10级雷暴大风，局地可达11级以上。雷雨时局地伴有短时强降水（20～40毫米/小时，个别地点可达50毫米/小时以上），个别地点有冰雹。请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101090101-10109010120260708175724192729738-2026-07-08T17:57+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "石家庄市气象台更新高温橙色预警",
+          "location": [
+            114.5149,
+            38.0428
+          ],
+          "province": "石家庄",
+          "provinceCode": 130000,
+          "severity": "orange",
+          "source": "石家庄市气象台",
+          "publishedAt": "2026-07-08T09:57:00.000Z",
+          "summary": "石家庄市气象台2026年07月08日17时51分继续发布高温橙色预警信号：预计9日白天，我市全部县区最高气温可升至37℃以上，请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101070101-10107010120260708153745109291784-2026-07-08T15:37+08:00",
+          "type": "gust",
+          "rawType": "雷雨大风",
+          "title": "沈阳市气象台发布雷雨大风蓝色预警信号",
+          "location": [
+            123.4291,
+            41.7968
+          ],
+          "province": "沈阳",
+          "provinceCode": 210000,
+          "severity": "blue",
+          "source": "沈阳市气象台",
+          "publishedAt": "2026-07-08T07:37:00.000Z",
+          "summary": "雷雨大风蓝色预警信号：预计8日傍晚到夜间，沈阳市和平区、沈河区、铁西区、皇姑区、大东区、于洪区，沈抚示范区将出现雷雨大风天气，阵风风力可达7到8级，同时可能伴有短时强降水等强对流天气，请避免户外活动，防范大风、雷击等风险。沈阳市气象台2026年07月08日15时35分发布",
+          "detailUrl": null
+        },
+        {
+          "id": "101060101-10106010120260709054000564896823-2026-07-09T05:40+08:00",
+          "type": "thunder",
+          "rawType": "雷电",
+          "title": "长春市气象台2026年7月9日05时40分发布雷电黄色预警信号",
+          "location": [
+            125.3245,
+            43.8868
+          ],
+          "province": "长春",
+          "provinceCode": 220000,
+          "severity": "yellow",
+          "source": "长春市气象台",
+          "publishedAt": "2026-07-08T21:40:00.000Z",
+          "summary": "长春市气象台2026年7月9日05时40分发布雷电黄色预警信号：预计未来6小时内，我市大部有分散雷电天气，局部地方可能伴有短时强降水、雷暴大风等强对流天气，市应急管理局、市气象局联合提醒，注意做好预防工作。",
+          "detailUrl": null
+        },
+        {
+          "id": "101050101-10105010120260708200000566453916-2026-07-08T20:00+08:00",
+          "type": "other",
+          "rawType": "地质灾害气象风险",
+          "title": "黑龙江省气象局发布地质灾害气象风险蓝色预警",
+          "location": [
+            126.6428,
+            45.7569
+          ],
+          "province": "哈尔滨",
+          "provinceCode": 230000,
+          "severity": "blue",
+          "source": "黑龙江省气象局",
+          "publishedAt": "2026-07-08T12:00:00.000Z",
+          "summary": "黑龙江省自然资源厅和黑龙江省气象局07月08日20时联合发布地质灾害气象风险蓝色预警:预计07月08日20时至07月09日20时，五常市、阿城区、尚志市、延寿县、宾县、方正县、通河县、依兰县、金林区、伊美区、大箐山县、南岔县、铁力市、甘南县、龙江县、北安市、五大连池市、碾子山区、鹤岗市区有一定风险发生地质灾害（蓝色预警）。请注意防范强降雨引发的崩塌、滑坡、泥石流等地质灾害，做好监测预警和转移避险等工作。",
+          "detailUrl": null
+        },
+        {
+          "id": "101050101-10105010120260708180000857338863-2026-07-08T18:00+08:00",
+          "type": "other",
+          "rawType": "地质灾害气象风险",
+          "title": "哈尔滨市气象台发布地质灾害气象风险黄色预警",
+          "location": [
+            126.6428,
+            45.7569
+          ],
+          "province": "哈尔滨",
+          "provinceCode": 230000,
+          "severity": "yellow",
+          "source": "哈尔滨市气象台",
+          "publishedAt": "2026-07-08T10:00:00.000Z",
+          "summary": "哈尔滨市自然资源和规划局、哈尔滨市气象局7月8日18时联合发布地质灾害气象风险黄色预警：受较强降雨影响，预计7月8日18时-10日20时，通河、依兰、方正、延寿、尚志、五常发生地质灾害的风险较高（黄色预警），请注意防范强降雨引发的崩塌、滑坡、泥石流等地质灾害，做好监测预警和转移避险等工作。",
+          "detailUrl": null
+        },
+        {
+          "id": "101050101-10105010120260708140000566614777-2026-07-08T14:00+08:00",
+          "type": "flash-flood",
+          "rawType": "山洪灾害事件",
+          "title": "黑龙江省气象局发布山洪灾害黄色预警",
+          "location": [
+            126.6428,
+            45.7569
+          ],
+          "province": "哈尔滨",
+          "provinceCode": 230000,
+          "severity": "yellow",
+          "source": "黑龙江省气象局",
+          "publishedAt": "2026-07-08T06:00:00.000Z",
+          "summary": "黑龙江省水利厅和黑龙江省气象局7月8日14时00分联合发布山洪灾害气象风险黄色和蓝色预警：\n预计7月8日14时00分至7月9日14时00分，丰林县、伊美区、南岔县、金林区、大箐山县、铁力市、萝北县、汤原县、郊区、依兰县、通河县、方正县、延寿县、尚志市、五常市发生山洪灾害风险较高（黄色预警），友好区、乌翠区、汤旺县、桦川县、庆安县有一定风险发生山洪灾害（蓝色预警）。请密切关注天气形势及雨水情变化，加强分析研判，及时向有关乡镇、村发布预警信息并按有关规定做好叫应工作。加强巡查排险，必要情况下提前组织危险区群众转移，确保人民群众生命安全。",
+          "detailUrl": null
+        },
+        {
+          "id": "101050101-10105010120260708140000651241657-2026-07-08T14:00+08:00",
+          "type": "flood",
+          "rawType": "中小河流洪水气象风险",
+          "title": "黑龙江省气象局发布中小河流洪水气象风险黄色预警",
+          "location": [
+            126.6428,
+            45.7569
+          ],
+          "province": "哈尔滨",
+          "provinceCode": 230000,
+          "severity": "yellow",
+          "source": "黑龙江省气象局",
+          "publishedAt": "2026-07-08T06:00:00.000Z",
+          "summary": "黑龙江省水利厅和黑龙江省气象局7月8日14时联合发布中小河流洪水气象风险黄色和蓝色预警：\n预计7月8日14时至7月9日14时，丰林县、伊美区、南岔县、大箐山县、铁力市、金林区、萝北县、汤原县、郊区、通河县、方正县、延寿县、尚志市、五常市、依兰县发生中小河流洪水风险较高（黄色预警），友好区、乌翠区、庆安县、汤旺县、桦川县有一定风险发生中小河流洪水（蓝色预警）。请密切关注天气形势及雨水情变化，加强分析研判，及时向有关乡镇、村发布预警信息并按有关规定做好叫应工作。加强巡查排险，必要情况下提前组织危险区群众转移，确保人民群众生命安全。",
+          "detailUrl": null
+        },
+        {
+          "id": "101230101-10123010120260708100600723838834-2026-07-08T10:06+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "福州市气象台发布高温橙色预警信号",
+          "location": [
+            119.2965,
+            26.0745
+          ],
+          "province": "福州",
+          "provinceCode": 350000,
+          "severity": "orange",
+          "source": "福州市气象台",
+          "publishedAt": "2026-07-08T02:06:00.000Z",
+          "summary": "福州市气象台2026年07月08日10时06分继续发布高温橙色预警信号：预计今天鼓楼区（安泰街道、五凤街道、温泉街道等），台江区（茶亭街道、瀛洲街道、苍霞街道等），晋安区（新店镇、岳峰镇、王庄街道等），仓山区（盖山镇、建新镇、城门镇等），马尾区（罗星街道、马尾镇）最高气温可达36～38℃，局部超过38℃。请有关单位和人员注意做好防暑降温工作，特别是户外或者高温条件下的作业人员应当采取必要的防护措施！",
+          "detailUrl": null
+        },
+        {
+          "id": "101180101-10118010120260709060400107607361-2026-07-09T06:04+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "郑州市气象台发布高温橙色预警",
+          "location": [
+            113.6253,
+            34.7466
+          ],
+          "province": "郑州",
+          "provinceCode": 410000,
+          "severity": "orange",
+          "source": "郑州市气象台",
+          "publishedAt": "2026-07-08T22:04:00.000Z",
+          "summary": "郑州市气象台2026年7月9日6时4分继续发布高温橙色预警信号：预计今天12时至17时，郑州市主城区、上街区、航空港区所辖乡镇及街道最高气温将升至37℃以上，请注意防范高温天气带来的不利影响。防御指南：1.政府及相关部门应按照职责落实防暑降温保障措施。2.尽量避免在高温时段进行户外活动，高温条件下作业的人员应当缩短连续工作时间。3.对老、弱、病、幼人群提供防暑降温指导，并采取必要的防护措施。4.有关部门和单位应当注意防范因用电量过高，以及电线、变压器等电力负载过大而引发的火灾。",
+          "detailUrl": null
+        },
+        {
+          "id": "101180101-10118010120260708110000332947171-2026-07-08T11:00+08:00",
+          "type": "convection",
+          "rawType": "强对流",
+          "title": "河南省气象台发布强对流蓝色预警",
+          "location": [
+            113.6253,
+            34.7466
+          ],
+          "province": "郑州",
+          "provinceCode": 410000,
+          "severity": "blue",
+          "source": "河南省气象台",
+          "publishedAt": "2026-07-08T03:00:00.000Z",
+          "summary": "河南省气象台2026年7月8日11时发布强对流蓝色预警：预计8日14时至9日14时，安阳、鹤壁、濮阳、新乡、焦作东部、三门峡北部、洛阳北部、郑州东北部、开封北部、商丘部分县（市、区）将有20到50毫米短时强降水（个别点50到80毫米）、8到9级雷暴大风（个别点10到11级）和局地冰雹。请注意防范。上述地区的相邻县（市、区）也需关注。 防御指南： 1.政府及相关部门按照职责做好防短时暴雨、防雷、防大风、防雹准备工作； 2.学校、幼儿园采取防风措施，加强校园户外设施隐患排查整治，停止室外教学活动； 3.户外行人和工作人员减少户外活动，注意远离棚架广告牌等搭建物； 4.加强景区景点基础设施和危险区域的安全风险隐患排查，及时关闭易受大风等影响的户外游乐项目； 5.相关水域水上作业和过往船舶采取回港规避或者绕道航行等积极应对措施； 6.加强户外高空作业的管控，避免造成坍塌、高坠、物体打击等事故； 7.做好排涝准备和对山洪、滑坡、泥石流等灾害的防御准备。",
+          "detailUrl": null
+        },
+        {
+          "id": "101200101-10120010120260709075311532004274-2026-07-09T07:53+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "湖北省气象台发布高温黄色预警",
+          "location": [
+            114.3419,
+            30.5461
+          ],
+          "province": "武汉",
+          "provinceCode": 420000,
+          "severity": "yellow",
+          "source": "湖北省气象台",
+          "publishedAt": "2026-07-08T23:53:00.000Z",
+          "summary": "湖北省气象台2026年7月9日7时53分发布高温黄色省级预警：预计9日白天，十堰、襄阳、恩施、宜昌、荆门、荆州、天门、仙桃、潜江、随州、孝感、武汉、鄂州、咸宁等地最高气温将升至 35℃以上，十堰、宜昌、恩施、咸宁局地37℃以上，请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101250101-10125010120260708155400594906286-2026-07-08T15:54+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "湖南省气象局发布高温黄色预警",
+          "location": [
+            112.9388,
+            28.2282
+          ],
+          "province": "长沙",
+          "provinceCode": 430000,
+          "severity": "yellow",
+          "source": "湖南省气象台",
+          "publishedAt": "2026-07-08T07:54:00.000Z",
+          "summary": "湖南省气象台2026年7月8日16时继续发布高温黄色预警：预计9日白天，湘北、湘中部分地区有35℃以上高温，张家界、常德局地将达37℃以上，请做好防范。黄色预警区域：长沙中西部、株洲北部、湘潭、湘西州、张家界、常德、益阳、岳阳部分地区、怀化中北部、娄底大部。",
+          "detailUrl": null
+        },
+        {
+          "id": "101300101-10130010120260708093000906236871-2026-07-08T09:30+08:00",
+          "type": "rainstorm",
+          "rawType": "暴雨",
+          "title": "广西壮族自治区气象台更新暴雨黄色预警信号",
+          "location": [
+            108.3669,
+            22.817
+          ],
+          "province": "南宁",
+          "provinceCode": 450000,
+          "severity": "yellow",
+          "source": "广西壮族自治区气象台",
+          "publishedAt": "2026-07-08T01:30:00.000Z",
+          "summary": "广西区气象台2026年07月08日09时30分将暴雨橙色预警调整为黄色，预计：未来24小时，防城港、钦州、北海、玉林、贵港、梧州等市和南宁、来宾两市东部及桂林、柳州两市南部有大雨到暴雨、局地大暴雨并伴有短时雷暴大风等强对流天气。请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101110101-10111010120260708093718937705128-2026-07-08T09:37+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "西安市气象台发布高温橙色预警",
+          "location": [
+            108.9398,
+            34.3416
+          ],
+          "province": "西安",
+          "provinceCode": 610000,
+          "severity": "orange",
+          "source": "西安市气象台",
+          "publishedAt": "2026-07-08T01:37:00.000Z",
+          "summary": "西安市气象台2026年07月08日09时37分继续发布高温橙色预警信号：预计未来24小时内新城区、碑林区、莲湖区、雁塔区、灞桥区、未央区、阎良区、临潼区、长安区、高陵区、鄠邑区、周至县、蓝田县、西咸新区最高气温将升至37℃～39℃，部分街道（乡镇）将升至40℃，请注意防范。",
+          "detailUrl": null
+        },
+        {
+          "id": "101110101-10111010120260707112427828274803-2026-07-07T11:24+08:00",
+          "type": "heatwave",
+          "rawType": "高温",
+          "title": "陕西省气象台发布高温黄色预警",
+          "location": [
+            108.9398,
+            34.3416
+          ],
+          "province": "西安",
+          "provinceCode": 610000,
+          "severity": "yellow",
+          "source": "陕西省气象台",
+          "publishedAt": "2026-07-07T03:24:00.000Z",
+          "summary": "陕西省气象台2026年07月07日10时00分继续发布高温黄色预警：受下沉增温和辐射增温影响，预计7月7日陕北黄河沿线、关中平原、陕南河谷部分地方有35℃以上的高温天气，其中榆林南部局地、宝鸡中部、咸阳南部、西安大部、渭南大部、汉中河谷局地、安康东部局地最高气温可达37℃以上，渭南南部局地、安康南部局地最高气温可达40℃。7月8日陕北中东部、关中平原大部、陕南河谷部分地方有35℃以上的高温天气，其中榆林东部局地、延安东北部局地、宝鸡中部、咸阳南部、西安大部、渭南大部、汉中中部、安康中南部可达37℃以上，局地最高气温可达40℃。",
+          "detailUrl": null
+        },
+        {
+          "id": "101110101-10111010120260703170817288255729-2026-07-03T17:08+08:00",
+          "type": "agriculture-risk",
+          "rawType": "农业气象风险",
+          "title": "陕西省农业农村厅发布农业气象风险",
+          "location": [
+            108.9398,
+            34.3416
+          ],
+          "province": "西安",
+          "provinceCode": 610000,
+          "severity": "blue",
+          "source": "陕西省农业农村厅",
+          "publishedAt": "2026-07-03T09:08:00.000Z",
+          "summary": "陕西省气象局与陕西省农业农村厅7月3日联合发布猕猴桃高温热害风险预警：当前我省猕猴桃处于果实膨大期。预计7月5日至9日我省关中、陕南猕猴桃产区将有一次35℃以上高温过程，部分地方有37℃以上高温，局地可达40℃以上。西安南部、宝鸡东部、咸阳南部、渭南南部、陕南河谷地带猕猴桃高温热害风险较高，西安周至县、宝鸡眉县、渭南临渭区猕猴桃高温热害风险高。建议：各猕猴桃种植果园利用喷滴灌科学调控水分与温度；综合运用搭建遮阳网、保留枝叶等强化遮阳防晒，预防日灼灾害；加强地表覆盖，减少地表水分蒸发及热量反射，同时，调节果园小气候，保障树势稳定与果实安全。",
+          "detailUrl": null
+        },
+        {
+          "id": "101150101-10115010120260708162000824541418-2026-07-08T16:20+08:00",
+          "type": "convection",
+          "rawType": "强对流",
+          "title": "西宁市气象台发布强对流蓝色预警",
+          "location": [
+            100.9018,
+            36.4828
+          ],
+          "province": "西宁",
+          "provinceCode": 630000,
+          "severity": "blue",
+          "source": "西宁市",
+          "publishedAt": "2026-07-08T08:20:00.000Z",
+          "summary": "西宁市气象台2026年07月08日16时20分发布强对流蓝色预警：预计07月08日16时30分至09日16时30分，西宁市区、湟中区、大通县、湟源县将出现8级以上雷暴大风，局地伴有冰雹，强对流天气主要集中在08日16时30分至09日02时00分、09日14时00分至09日16时30分，发生雹灾、风灾、雷击等灾害的气象风险较高，请注意防范。防御指南：1.政府及相关部门按照职责做好防雷、防大风准备工作，做好人工防雹作业准备；2.户外行人和工作人员减少户外活动，注意远离棚架广告牌等搭建物；3.驱赶家禽、牲畜进入有顶篷的场所，关好门窗加固棚舍；4.工地注意遮盖建筑物资，妥善安置易受风雹影响的室外物品。",
+          "detailUrl": null
+        },
+        {
+          "id": "101150101-10115010120260708110722907857435-2026-07-08T11:07+08:00",
+          "type": "agriculture-risk",
+          "rawType": "农业气象风险",
+          "title": "青海省气象局与青海省农业农村厅联合发布农业灾害气象风险橙色预警",
+          "location": [
+            100.9018,
+            36.4828
+          ],
+          "province": "西宁",
+          "provinceCode": 630000,
+          "severity": "orange",
+          "source": "青海省",
+          "publishedAt": "2026-07-08T03:07:00.000Z",
+          "summary": "青海省气象局和青海省农业农村厅07月08日11时联合发布农田渍涝风险预警：受强对流天气影响，预计07月10日11时至12日20时，门源、大通、互助、乐都、西宁、湟中、湟源、共和、贵南等地农田遭受渍涝风险较高（黄色预警），平安、民和、化隆、循化、尖扎、同仁、贵德等地农田遭受渍涝风险高（橙色预警），易造成作物倒伏、农田冲毁、设施大棚受损。建议上述地区提前疏通沟渠，雨后及时排除积水、合理追肥，同时加强病虫害监测与防治，促进作物尽快恢复生长。",
+          "detailUrl": null
+        },
+        {
+          "id": "101130101-10113010120260708194129917367975-2026-07-08T19:41+08:00",
+          "type": "thunder",
+          "rawType": "雷电",
+          "title": "新疆维吾尔自治区气象台发布雷电黄色预警",
+          "location": [
+            87.6177,
+            43.7928
+          ],
+          "province": "乌鲁木齐",
+          "provinceCode": 650000,
+          "severity": "yellow",
+          "source": "新疆维吾尔自治区气象台",
+          "publishedAt": "2026-07-08T11:41:00.000Z",
+          "summary": "新疆维吾尔自治区气象台2026年7月8日19时41分发布雷电黄色预警信号：目前伊犁河谷、博州、塔城地区、阿勒泰地区、阿克苏地区已有雷暴云团生成，预计今天夜间，上述区域和克拉玛依市、喀什地区、克州、巴州、哈密市等地的局部区域将有雷电活动，局地伴有短时强降水、8级及以上雷暴大风、冰雹等强对流天气，请加强防范。",
+          "detailUrl": null
+        }
+      ],
+      "news": [
+        {
+          "id": "news-jg583r",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "scope-local",
+            "scope-national"
+          ],
+          "title": "今起两股冷空气将接踵而至 全国大部雨雪稀少",
+          "summary": "今天（12月9日）开始，冷空气又将活跃起来，其中今天至11日以及12日至14日将有两股冷空气接踵而至，影响均以大风、降温为主，东北等地累计降温幅度大，局地可达10℃以上。此外，今后三天，我国大部地区雨雪稀少的天气格局将延续，雨水主要集中在江南、西南等地。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129194024.htm",
+          "publishedAt": "2026-07-09T00:00:58.624Z"
+        },
+        {
+          "id": "news-v7wqjd",
+          "type": "gale",
+          "mainTagKey": "gale",
+          "tags": [
+            "gale",
+            "gust",
+            "scope-local"
+          ],
+          "title": "浙江今明天小雨淅沥阳光难觅 沿海海面风力较大局部阵风可达10级",
+          "summary": "今明两天（12月9日至10日），浙江天气舞台的关键词仍是阴雨，虽然普遍以淅淅沥沥的小雨为主，但天空云层较厚，阳光难觅，平添了一份冬日的阴沉感。此外，未来三天，浙江中部沿海海面、南部沿海海面等东北风明显，阵风逐渐增强至10级左右，海上作业人员需关注预报预警，及时回港避风。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129193881.htm",
+          "publishedAt": "2026-07-09T00:00:58.624Z"
+        },
+        {
+          "id": "news-voekc7",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "snow",
+            "impact-outdoor"
+          ],
+          "title": "今天前半夜北京山区有弱降雪 后半夜至明天白天大风降温来袭",
+          "summary": "今天（12月9日）白天，北京天气平稳，以晴到多云天气为主，前半夜山区有零星小雪或小雪，后半夜至明天白天大风降温来袭，户外风寒效应较明显，需注意防范。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129193872.htm",
+          "publishedAt": "2026-07-09T00:00:58.624Z"
+        },
+        {
+          "id": "news-gxbrci",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air"
+          ],
+          "title": "今天北京昼夜温差达12℃早晚冷意十足 明后天冷空气又来报到",
+          "summary": "今天（12月8日）北京最高气温7℃，空气依然干燥，昼夜温差达到12℃，早晚体感冷意十足。明后天又有冷空气报到，北京气温再度波动。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/08/c_1129190950.htm",
+          "publishedAt": "2026-07-09T00:00:58.624Z"
+        },
+        {
+          "id": "news-h9z0zt",
+          "type": "scope-regional",
+          "mainTagKey": "scope-regional",
+          "tags": [
+            "scope-regional",
+            "scope-national",
+            "impact-traffic",
+            "impact-tourism"
+          ],
+          "title": "今明天广东晴朗在线 早晚仍寒凉需添衣保暖",
+          "summary": "今明两天（12月8日至9日），广东大部地区将维持晴朗的天气格局，不过受晴空辐射影响，全省昼夜温差较大，尤其是粤北地区最低气温不足10℃，早晚出行仍需厚装护体。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/08/c_1129190948.htm",
+          "publishedAt": "2026-07-09T00:00:58.624Z"
+        },
+        {
+          "id": "news-hrkfzd",
+          "type": "cold-wave",
+          "mainTagKey": "cold-wave",
+          "tags": [
+            "cold-wave",
+            "snow",
+            "scope-national"
+          ],
+          "title": "全国入冬进程图：大雪节气开启仲冬时节",
+          "summary": "11月26日至12月1日，我国大部地区经历了今冬以来最强寒潮。在其推动下，冬季的版图急剧扩张。截至目前，我国约四分之三国土被冬季覆盖。你那里是冬天了吗？",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/08/c_1129190937.htm",
+          "publishedAt": "2026-07-09T00:00:58.624Z"
+        },
+        {
+          "id": "news-4iy3bz",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "scope-national"
+          ],
+          "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
+          "summary": "今天（12月14日），全国大部降水仍稀少，雨雪零散分布，冷空气影响也进入尾声阶段。不过，从明天开始，新一轮实力更强的冷空气接踵而至，将率先从新疆北部展开，随后逐渐给我国大部地区带来大风降温天气，同时西南、江汉等地降水也将增多。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-rlx13t",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave",
+            "cold-air",
+            "temp-continuous",
+            "temp-afternoon"
+          ],
+          "title": "北京今天最高温0℃山区有零星小雪 明起三天冷空气又将来降温",
+          "summary": "今天（12月14日），北京气温将有所回升，最高气温0℃，下午天空云量增多，山区有零星小雪。明起三天，又有冷空气影响北京，北风将再度增大，气温逐渐下降。本周冷空气频繁，气温持续较低，公众请注意防寒保暖。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/14/c_1129206415.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-6rqct7",
+          "type": "scope-basin",
+          "mainTagKey": "scope-basin",
+          "tags": [
+            "scope-basin"
+          ],
+          "title": "新时代新征程新伟业｜大河上下满目新——贯彻落实党的二十大精神加强黄河流域生态保护观察",
+          "summary": "万里黄河，奔流不息。大河上下，焕然一新。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/13/c_1129204883.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-zgdq2v",
+          "type": "scope-basin",
+          "mainTagKey": "scope-basin",
+          "tags": [
+            "scope-basin",
+            "impact-water",
+            "temp-continuous"
+          ],
+          "title": "长江流域“抗旱会战”告一段落",
+          "summary": "12月8日，湖南省水利厅解除水旱灾害防御三级应急响应，这是长江流域今年最后一个宣告解除的省级水旱灾害防御应急响应。至此，持续近4个月的长江流域“抗旱会战”告一段落。随着近期迎来数轮降雨，长江流域各地抗旱应急响应目前已经解除。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/13/c_1129204698.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-xka72i",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "cold-air",
+            "scope-national",
+            "temp-continuous"
+          ],
+          "title": "北方多地遭遇沙尘天气 冬季发生沙尘暴正常吗？",
+          "summary": "12日，冷空气裹挟着沙尘影响北方多地，中央气象台继续发布沙尘暴蓝色预警。气象预报显示，未来十天，冷空气活动频繁且势力较强，除青藏高原外，我国大部地区平均气温较常年同期持续明显偏低。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129203259.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-wyu7xf",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave",
+            "drought",
+            "scope-local",
+            "scope-national",
+            "temp-continuous"
+          ],
+          "title": "新华时评：稳住压舱石 吃下定心丸",
+          "summary": "国家统计局12日发布数据，2022年全国粮食总产量13731亿斤，比上年增加74亿斤，粮食产量连续8年稳定在1.3万亿斤以上。我们克服了北方罕见秋汛导致冬小麦晚播、局部发生新冠肺炎疫情和南方持续高温干旱等不利因素影响，全年粮食实现增产丰收。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129203241.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-x8iegl",
+          "type": "gale",
+          "mainTagKey": "gale",
+          "tags": [
+            "gale",
+            "strong-wind",
+            "gust",
+            "scope-local"
+          ],
+          "title": "大风沙尘双预警生效中！北京今日大风伴沙尘阵风将达6至7级",
+          "summary": "今晨，北京大风呼啸，06时，部分地区极大风速已达6～7级，西部部分山区阵风甚至达到10级左右，目前，大风和沙尘蓝色预警信号同时生效中。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129200817.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-wrgs2e",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "strong-wind",
+            "cold-air",
+            "blowing-sand",
+            "dust-float",
+            "scope-local"
+          ],
+          "title": "沙尘暴蓝色预警继续！京津冀等部分地区将现扬沙或浮尘天气",
+          "summary": "受冷空气大风影响，预计12月12日08时至13日08时，内蒙古中西部、甘肃、宁夏、陕西北部、山西中北部、河北中北部、北京、天津以及新疆塔里木盆地等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/12/c_1129200807.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-805zj",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "strong-wind",
+            "cold-air",
+            "blowing-sand",
+            "dust-float",
+            "scope-local",
+            "scope-national"
+          ],
+          "title": "沙尘暴蓝色预警继续！山西河北等8省区有扬沙或浮尘天气",
+          "summary": "受冷空气大风影响，预计12月11日08时至12日08时，新疆东部和南疆盆地、青海北部和西南部、内蒙古西部、甘肃大部、宁夏、陕西中北部、山西、河北西部等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/11/c_1129199534.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-y9vkxa",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air"
+          ],
+          "title": "应急管理部提示：做好近期冷空气过程防范应对",
+          "summary": "针对近期冷空气过程，应急管理部于10日向受影响的25个省份发出提示，要求落实落细低温雨雪冰冻天气应对各项措施，全力保障人民群众生命财产安全。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129198883.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-hq7cjs",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air",
+            "scope-national"
+          ],
+          "title": "三股冷空气先后入侵 中东部气温将一路走低",
+          "summary": "中央气象台10日发布，近期影响我国的冷空气活动频繁，先后有三股冷空气入侵，北风占主导，中东部地区的气温将一路走低，气温零度线也将往南扩张；同时雨雪天气较弱，全国大部地区干燥多风。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129198294.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-mum0a",
+          "type": "sandstorm",
+          "mainTagKey": "sandstorm",
+          "tags": [
+            "sandstorm",
+            "strong-wind",
+            "cold-air",
+            "blowing-sand",
+            "dust-float",
+            "scope-local",
+            "scope-national"
+          ],
+          "title": "沙尘暴蓝色预警继续！山西河北等8省区有扬沙或浮尘天气",
+          "summary": "受冷空气大风影响，预计12月11日08时至12日08时，新疆东部和南疆盆地、青海北部和西南部、内蒙古西部、甘肃大部、宁夏、陕西中北部、山西、河北西部等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/11/c_1129199540.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-osfizx",
+          "type": "strong-wind",
+          "mainTagKey": "strong-wind",
+          "tags": [
+            "strong-wind",
+            "cold-air",
+            "scope-local",
+            "scope-regional"
+          ],
+          "title": "冷空气将携大风降温来袭 明天江苏部分地区最低温跌至冰点附近",
+          "summary": "今明两天（12月10日至11日），受冷空气影响，江苏将出现大风降温天气过程，全省最低气温将明显下降，预计明天部分地区最低气温都将跌至冰点附近，风寒效应明显，公众需厚装护体。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129197667.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-ou2ws0",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air",
+            "scope-national",
+            "temp-night"
+          ],
+          "title": "黑龙江周末两天晴天为主 11日夜间开始雨雪又上线",
+          "summary": "周末两天（12月10日至11日），黑龙江大部地区晴天唱主调，天气舞台总体平静。但冷空气即将“复工”，眼前的平静状态也将被打破，预计11日夜间开始到12日，黑龙江大部地区雨雪再登场，公众需关注临近预报，提前做好相关防范措施。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129197664.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-sntc0k",
+          "type": "cold-air",
+          "mainTagKey": "cold-air",
+          "tags": [
+            "cold-air",
+            "gust",
+            "scope-local",
+            "impact-traffic",
+            "impact-tourism"
+          ],
+          "title": "冷空气开工！北京北风在线阵风可达7级 风寒效应明显需保暖",
+          "summary": "冷空气又来了！今天（12月10日），北京虽然天气晴朗，但北风在线，部分地区阵风可达7级左右，风寒效应明显，公众出行需注意保暖避风。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/10/c_1129197503.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-2x6lpu",
+          "type": "impact-agriculture",
+          "mainTagKey": "impact-agriculture",
+          "tags": [
+            "impact-agriculture"
+          ],
+          "title": "国台办：所谓大陆暂停进口台湾午仔鱼等水产品的报道与事实不符",
+          "summary": "近日岛内媒体称大陆无预警禁止进口台湾午仔鱼、秋刀鱼等水产品，台陆委会声称将表达严正抗议。国台办发言人朱凤莲9日答记者问表示，所谓大陆暂停进口台湾午仔鱼、秋刀鱼、鱿鱼等水产品的报道与事实不符，所谓“严正抗议”更是无理取闹。",
+          "source": "新华网",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/politics/2022-12/09/c_1129196946.htm",
+          "publishedAt": "2026-07-09T00:00:58.623Z"
+        },
+        {
+          "id": "news-7bxg8h",
+          "type": "rainstorm-strong",
+          "mainTagKey": "rainstorm-strong",
+          "tags": [
+            "rainstorm-strong",
+            "flash-flood",
+            "landslide",
+            "temp-night"
+          ],
+          "title": "刚果（金）首都暴雨致141人死亡",
+          "summary": "刚果（金）首都金沙萨12日夜间至13日凌晨遭遇暴雨，多个地区发生洪涝和山体滑坡，导致至少141人死亡。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/14/c_1129206388.htm",
+          "publishedAt": "2026-07-09T00:00:58.596Z"
+        },
+        {
+          "id": "news-ike7mx",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "全球连线｜“基于自然的解决方案”亚洲案例征集活动在COP15上启动",
+          "summary": "在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议期间，亚洲开发银行携手清华大学气候变化与可持续发展研究院启动“基于自然的解决方案”亚洲优秀实践案例征集活动。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/11/c_1129200178.htm",
+          "publishedAt": "2026-07-09T00:00:58.596Z"
+        },
+        {
+          "id": "news-y4j6pe",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "“基于自然的解决方案”亚洲案例征集活动在COP15上启动",
+          "summary": "在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议期间，亚洲开发银行携手清华大学气候变化与可持续发展研究院启动“基于自然的解决方案”亚洲优秀实践案例征集活动。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/10/c_1129198181.htm",
+          "publishedAt": "2026-07-09T00:00:58.596Z"
+        },
+        {
+          "id": "news-r1pu5j",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "澳央行预计四季度通胀水平达峰值",
+          "summary": "澳大利亚储备银行（央行）日前发表月度货币政策声明表示，澳通胀水平或将在今年第四季度达到8%左右的峰值，并表示连续加息是遏制高通胀的必要手段。",
+          "source": "新华网社会",
+          "sourceHome": "https://www.news.cn",
+          "url": "http://www.news.cn/world/2022-12/07/c_1129190562.htm",
+          "publishedAt": "2026-07-09T00:00:58.596Z"
+        },
+        {
+          "id": "news-3limz5",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave"
+          ],
+          "title": "抗炎、稳血糖 这种夏日宝藏水果现在吃正合适",
+          "summary": "盛夏高温易耗气伤津，需补充水分、维生素，平衡电解质。堪称“天然解暑神器”的应季桃子，水分足、富含钾元素与膳食纤维，既能缓解口干、预防脱水，也能改善湿热引发的便秘。桃子生吃清甜爽口，搭配食材炖煮还能润燥补气血，夏日养生干货请查收↓",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/life/2026/07-09/10655582.shtml",
+          "publishedAt": "2026-07-08T23:50:09.000Z"
+        },
+        {
+          "id": "news-mvpudi",
+          "type": "typhoon",
+          "mainTagKey": "typhoon",
+          "tags": [
+            "typhoon"
+          ],
+          "title": "台风黄色预警：“巴威”11日白天将登陆或擦过台湾岛北部沿海",
+          "summary": "中国天气网讯 中央气象台7月9日06时发布台风黄色预警：",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/sh/2026/07-09/10655580.shtml",
+          "publishedAt": "2026-07-08T23:45:00.000Z"
+        },
+        {
+          "id": "news-hq9gdu",
+          "type": "rainstorm-strong",
+          "mainTagKey": "rainstorm-strong",
+          "tags": [
+            "rainstorm-strong",
+            "typhoon",
+            "impact-water",
+            "temp-continuous"
+          ],
+          "title": "汛情谣言有哪些套路？如何识别？一文了解",
+          "summary": "受台风“美莎克”影响，近日广西多地出现持续强降雨天气。就在各地全力开展防汛救灾之际，多条不实信息借汛情热点在网络扩散。广西网络举报部门先后集中通报多起典型谣言案例，包括“北海村民要求先救猪后救人”“广西老人独坐屋顶待救援”等，均为不实信息。",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/sh/2026/07-09/10655566.shtml",
+          "publishedAt": "2026-07-08T23:15:35.000Z"
+        },
+        {
+          "id": "news-5x5ioo",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave",
+            "scope-regional"
+          ],
+          "title": "法国72省高温橙色警报 本月山火过火面积7800公顷",
+          "summary": "中新社巴黎7月8日电 (记者 李洋)法国新一轮热浪影响范围8日继续扩大，72个省份面临高温橙色警报。与此同时，山火影响区域也在扩大，法国本月以来的山火过火面积已达7800公顷。",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/gj/2026/07-09/10655562.shtml",
+          "publishedAt": "2026-07-08T23:04:30.000Z"
+        },
+        {
+          "id": "news-vvhn80",
+          "type": "typhoon",
+          "mainTagKey": "typhoon",
+          "tags": [
+            "typhoon"
+          ],
+          "title": "台风来临，请备好这份避险指南",
+          "summary": "台风来临，请备好这份避险指南(服务窗)",
+          "source": "中新网",
+          "sourceHome": "https://www.chinanews.com.cn",
+          "url": "https://www.chinanews.com.cn/sh/2026/07-09/10655557.shtml",
+          "publishedAt": "2026-07-08T22:26:32.000Z"
+        },
+        {
+          "id": "news-xzpm6a",
+          "type": "agriculture-risk",
+          "mainTagKey": "agriculture-risk",
+          "tags": [
+            "agriculture-risk",
+            "impact-agriculture",
+            "season-summer-farm"
+          ],
+          "title": "刘国中在安徽调研时强调 全力以赴夺取夏粮丰收 全面打牢秋粮生产基础",
+          "summary": "新华社合肥6月5日电 中共中央政治局委员、国务院副总理刘国中3日至5日到安徽调研“三夏”农业生产工作。他强调，要深入学习贯彻习近平总书记关于国家粮食安全的重要论述，按照党中央、国务院部署，扛稳政治责任，毫不放松抓好夏收夏种夏管，全力以赴夺取夏粮丰收，全面打牢秋粮生产基础，确保完成全年粮食生产目标任务。 刘国中先后来到宿州市、淮南市、六安市，深入小麦机收和夏播现场、农机跨区作业服务点、农事服务中心、粮食仓储中心、地方农科院等，实地察看夏收夏种、农机作业服务保障、粮食烘干收储等工作，详细了解农作物新品种选育、大面积单产提升、农资保供稳价、高标准农田建设等情况。 刘国中强调，“三夏”工作抓得好不好，事关全年粮食生产目标任务能否顺利实现。当前正值“三夏”农业生产关键时期，要抓住有利天气抢晴收获，组织好农机跨区作业，强化服务保障和安全管理，确保夏收高效进行。要抓实抓牢机收减损、烘干晾晒等各项措施，最大程度减少粮食损失。要精心做好夏粮收购工作，引导各类企业积极入市，保障粮食市场平稳运行。要压茬推进夏播，加强农资供应和农事服务，强化技术集成及推广应用，落实落细合理密植、精量播种等大面积单产提升措施，",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494881.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-adx62q",
+          "type": "heatwave",
+          "mainTagKey": "heatwave",
+          "tags": [
+            "heatwave",
+            "drought",
+            "scope-basin",
+            "impact-power"
+          ],
+          "title": "微视频｜共建清洁美丽世界",
+          "summary": "showPlayer({scriptId: 'q_v_j-w1vevxy26kp', videoInfo: [{ src: 'https://video.people.cn/upload/vod/user1739759454736028/1749096524371228/origin.mp4', type: 'video/mp4', label: '源视频', }],posterUrl: 'https://video.people.cn/userUpload/1739759454736028/1749096524371228/picture/prescreen.png',width: 800,height: 450,type: 1}); 近年来，全球多地出现高温热浪、严重干旱、致命洪灾等极端天气事件。以人类共同的前途命运为怀，习近平主席曾在多个国际场合发出真诚呼吁。 在巴西亚马孙流域，中巴合作建设的美丽山特高压输电项目，不仅帮助这里解决清洁水电长距离外送和消纳难题，还恢复了沿线森林植被面积多达200公顷，一些地区出现了狐狸等野生动物。 发出减碳承诺、分享治理经验、探索合作之路，中国以实",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494643.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-9ku2qp",
+          "type": "scope-national",
+          "mainTagKey": "scope-national",
+          "tags": [
+            "scope-national"
+          ],
+          "title": "多地升级信用修复服务 助力经营主体重塑良好信用",
+          "summary": "健全信用修复制度是经营主体信用体系建设的重要内容，是当事人申请解除惩戒措施、重塑信用的制度保障。今年以来，多地深入贯彻党中央、国务院关于全面深化改革、优化营商环境的决策部署，推动企业数据填报“高效办成一件事”和市场监管领域统一信用修复落地见效。 多地完善相关政策 2021年8月，市场监管总局公布《市场监督管理信用修复管理办法》，推动解决信息公示期限较长、信用修复机制不健全等问题。今年以来，在全面深化改革、优化营商环境的大背景下，信用修复再次成为高频词。 在北京，为进一步优化营商环境，北京市市场监管局自2025年起全面升级信用修复服务，通过机制创新、流程优化、精准帮扶等创新举措，今年第一季度已助力6万户企业通过信用修复重塑良好信用。北京市市场监管局信用处副处长丁学雷介绍，为帮助经营主体纾困解难，激发市场活力，北京市市场监管局建立健全常态化信用修复机制，依法依规实现“能修必修、应修尽修”，助力经营主体重塑良好信用。 在江西，各级市场监管部门积极宣传推广市场监管信用修复全国统一平台，引导经营主体通过该平台申请信用修复，并探索推行容缺受理、并联修复等模式，利用各渠道精准推送修复提醒，切实为经营",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c458474-40494480.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-uxln1h",
+          "type": "scope-basin",
+          "mainTagKey": "scope-basin",
+          "tags": [
+            "scope-basin"
+          ],
+          "title": "习近平总书记关切事｜我们的名字叫“长江”——三个沿江村庄的变迁故事",
+          "summary": "长江，中华民族的母亲河—— 发源于青藏高原，汇百川入海，滋养了源远流长的中华文明，是中华民族发展的重要支撑。 习近平总书记指出，长江拥有独特的生态系统，是我国重要的生态宝库。当前和今后相当长一个时期，要把修复长江生态环境摆在压倒性位置，共抓大保护，不搞大开发。 从长江源头到中游、再到下游，那些以“长江”为名的村庄同饮一江水，共护母亲河。近日，记者来到长江上中下游的三个长江村，聆听这些依江而生、因江而兴的村落唱响新时代“长江之歌”。 搬，还母亲河一方清净 【坐标：青海省格尔木市长江源村】夏日阳光下，房屋的红屋顶、白院墙与一排排高大的杨树相互映衬。村中小湖湛蓝，游客快活地露营、戏水，湖畔时尚的咖啡馆里，人们惬意休息。 这里是青海省海西蒙古族藏族自治州格尔木市长江源村。 在搬到这里前，长江源村的村民世代居住在平均海拔超4500米的唐古拉山，在长江源头过着近乎与世隔绝的游牧生活。 随着牛羊增多，草原不堪重负，昔日养活三四百头牦牛的草场，变得百头都喂不饱。更令人忧心的是，草场退化直接导致长江源生态恶化，土地沙化、遍地鼠洞，自然灾害频发。 “黑乎乎的鼠洞像是打在心里，看了让人难受。我们不能把这样的",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494460.html",
+          "publishedAt": "2025-06-05T00:00:00.000Z"
+        },
+        {
+          "id": "news-rxb5ub",
+          "type": "temp-continuous",
+          "mainTagKey": "temp-continuous",
+          "tags": [
+            "temp-continuous"
+          ],
+          "title": "把更多“问题清单”变为“履职清单”（干部感言）",
+          "summary": "当下，数字化正加快赋能政务服务，银川市顺势而为，在设立线下“办不成事”反映窗口的基础上，创新上线“办不成事”掌上反映窗口。用科技赋能民生服务，推动政务服务从“能办”到“好办”再到“智办”。 从简单事项的答复到疑难问题的化解，再到难办事项的办成，这个窗口以“兜底服务”的担当，将那些不容易办的民生诉求纳入服务框架，背后是政务服务体系兼顾“标准化”与“人性化”的有益探索。 小小窗口，大有乾坤。政务服务改革的深度，不仅体现在技术迭代的速度上，更取决于为民解忧的温度。把“办不成”的诉求变成“办得好”的实践，把群众的“问题清单”变为干部的“履职清单”，才能在解决具体问题中持续提升治理效能。 （作者为银川市审批服务管理局党组书记、局长，本报记者秦瑞杰采访整理） 《 人民日报 》（ 2025年06月03日 14 版）",
+          "source": "人民网时政",
+          "sourceHome": "http://politics.people.com.cn",
+          "url": "http://politics.people.com.cn/n1/2025/0603/c458474-40492815.html",
+          "publishedAt": "2025-06-03T00:00:00.000Z"
+        }
+      ],
+      "stats": {
+        "warningCount": 22,
+        "newsCount": 36,
+        "duration": 674
+      }
+    }
+  },
+  "lastCapture": "2026-07-09T00:00:58.882Z",
+  "captureCount": 3
+}
