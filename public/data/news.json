@@ -1,142 +1,12 @@
 {
   "data": [
     {
-      "source": "新华网社会",
-      "sourceHome": "https://www.news.cn",
-      "title": "刚果（金）首都暴雨致141人死亡",
-      "url": "http://www.news.cn/world/2022-12/14/c_1129206388.htm",
-      "snippet": "刚果（金）首都金沙萨12日夜间至13日凌晨遭遇暴雨，多个地区发生洪涝和山体滑坡，导致至少141人死亡。",
-      "publishedAt": "2026-07-19T07:50:59.357Z",
-      "id": "news-26d1i7l",
-      "tags": [
-        "rainstorm-strong"
-      ],
-      "mainTagKey": "rainstorm-strong",
-      "type": "rainstorm-strong"
-    },
-    {
-      "source": "新华网社会",
-      "sourceHome": "https://www.news.cn",
-      "title": "俄战机在巴伦支海上空对挪威侦察机实施伴飞",
-      "url": "http://www.news.cn/world/2022-12/13/c_1129203460.htm",
-      "snippet": "俄罗斯国防部国家国防管理中心12日发布消息说，俄当天动用米格-31战斗机在巴伦支海上空对一架挪威侦察机实施了伴飞。",
-      "publishedAt": "2026-07-19T07:50:59.357Z",
-      "id": "news-26cyn66",
-      "tags": [],
-      "mainTagKey": null,
-      "type": "other"
-    },
-    {
-      "source": "新华网社会",
-      "sourceHome": "https://www.news.cn",
-      "title": "外媒：环保人士谴责英国政府“气候虚伪”",
-      "url": "http://www.news.cn/world/2022-12/12/c_1211708832.htm",
-      "snippet": "",
-      "publishedAt": "2026-07-19T07:50:59.357Z",
-      "id": "news-dkt9t4",
-      "tags": [],
-      "mainTagKey": null,
-      "type": "other"
-    },
-    {
-      "source": "新华网社会",
-      "sourceHome": "https://www.news.cn",
-      "title": "全球连线｜“基于自然的解决方案”亚洲案例征集活动在COP15上启动",
-      "url": "http://www.news.cn/world/2022-12/11/c_1129200178.htm",
-      "snippet": "在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议期间，亚洲开发银行携手清华大学气候变化与可持续发展研究院启动“基于自然的解决方案”亚洲优秀实践案例征集活动。",
-      "publishedAt": "2026-07-19T07:50:59.357Z",
-      "id": "news-ike7mx",
-      "tags": [
-        "temp-continuous"
-      ],
-      "mainTagKey": "temp-continuous",
-      "type": "temp-continuous"
-    },
-    {
-      "source": "新华网社会",
-      "sourceHome": "https://www.news.cn",
-      "title": "“基于自然的解决方案”亚洲案例征集活动在COP15上启动",
-      "url": "http://www.news.cn/world/2022-12/10/c_1129198181.htm",
-      "snippet": "在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议期间，亚洲开发银行携手清华大学气候变化与可持续发展研究院启动“基于自然的解决方案”亚洲优秀实践案例征集活动。",
-      "publishedAt": "2026-07-19T07:50:59.357Z",
-      "id": "news-y4j6pe",
-      "tags": [
-        "temp-continuous"
-      ],
-      "mainTagKey": "temp-continuous",
-      "type": "temp-continuous"
-    },
-    {
-      "source": "新华网社会",
-      "sourceHome": "https://www.news.cn",
-      "title": "欧洲能源企业热衷美国海上风电开发",
-      "url": "http://www.news.cn/world/2022-12/09/c_1211708124.htm",
-      "snippet": "据路透社报道，这是开发深水风电项目所需“漂浮式海上风电”技术拓展全球市场进程中的一个里程碑。",
-      "publishedAt": "2026-07-19T07:50:59.357Z",
-      "id": "news-1d0bq04",
-      "tags": [],
-      "mainTagKey": null,
-      "type": "other"
-    },
-    {
-      "source": "新华网社会",
-      "sourceHome": "https://www.news.cn",
-      "title": "日本向上修正三季度实际GDP降幅",
-      "url": "http://www.news.cn/world/2022-12/08/c_1129192861.htm",
-      "snippet": "日本内阁府8日公布的二次统计报告显示，今年第三季度日本实际国内生产总值（GDP）环比下降0.2%，按年率计算降幅为0.8%，与初值相比小幅向上修正。",
-      "publishedAt": "2026-07-19T07:50:59.357Z",
-      "id": "news-2bxonuw",
-      "tags": [],
-      "mainTagKey": null,
-      "type": "other"
-    },
-    {
-      "source": "新华网社会",
-      "sourceHome": "https://www.news.cn",
-      "title": "澳央行预计四季度通胀水平达峰值",
-      "url": "http://www.news.cn/world/2022-12/07/c_1129190562.htm",
-      "snippet": "澳大利亚储备银行（央行）日前发表月度货币政策声明表示，澳通胀水平或将在今年第四季度达到8%左右的峰值，并表示连续加息是遏制高通胀的必要手段。",
-      "publishedAt": "2026-07-19T07:50:59.357Z",
-      "id": "news-r1pu5j",
-      "tags": [
-        "temp-continuous"
-      ],
-      "mainTagKey": "temp-continuous",
-      "type": "temp-continuous"
-    },
-    {
-      "source": "新华网政治",
-      "sourceHome": "https://www.news.cn",
-      "title": "广东今明天阳光继续“营业” 空气干燥昼夜温差大",
-      "url": "http://www.news.cn/politics/2022-12/09/c_1129193877.htm",
-      "snippet": "今明两天（12月9日至10日），广东阳光继续在线，晴燥“控场”，不过昼夜温差较大，早晚寒凉感明显，公众需注意适时补水和添衣保暖。",
-      "publishedAt": "2026-07-19T07:50:59.187Z",
-      "id": "news-13fgglq",
-      "tags": [],
-      "mainTagKey": null,
-      "type": "other"
-    },
-    {
-      "source": "新华网政治",
-      "sourceHome": "https://www.news.cn",
-      "title": "今天前半夜北京山区有弱降雪 后半夜至明天白天大风降温来袭",
-      "url": "http://www.news.cn/politics/2022-12/09/c_1129193872.htm",
-      "snippet": "今天（12月9日）白天，北京天气平稳，以晴到多云天气为主，前半夜山区有零星小雪或小雪，后半夜至明天白天大风降温来袭，户外风寒效应较明显，需注意防范。",
-      "publishedAt": "2026-07-19T07:50:59.187Z",
-      "id": "news-13cphmx",
-      "tags": [
-        "strong-wind"
-      ],
-      "mainTagKey": "strong-wind",
-      "type": "strong-wind"
-    },
-    {
       "source": "新华网政治",
       "sourceHome": "https://www.news.cn",
       "title": "今天北京昼夜温差达12℃早晚冷意十足 明后天冷空气又来报到",
       "url": "http://www.news.cn/politics/2022-12/08/c_1129190950.htm",
       "snippet": "今天（12月8日）北京最高气温7℃，空气依然干燥，昼夜温差达到12℃，早晚体感冷意十足。明后天又有冷空气报到，北京气温再度波动。",
-      "publishedAt": "2026-07-19T07:50:59.187Z",
+      "publishedAt": "2026-07-20T10:33:23.479Z",
       "id": "news-2fyftbm",
       "tags": [],
       "mainTagKey": null,
@@ -148,7 +18,7 @@
       "title": "今明天广东晴朗在线 早晚仍寒凉需添衣保暖",
       "url": "http://www.news.cn/politics/2022-12/08/c_1129190948.htm",
       "snippet": "今明两天（12月8日至9日），广东大部地区将维持晴朗的天气格局，不过受晴空辐射影响，全省昼夜温差较大，尤其是粤北地区最低气温不足10℃，早晚出行仍需厚装护体。",
-      "publishedAt": "2026-07-19T07:50:59.187Z",
+      "publishedAt": "2026-07-20T10:33:23.479Z",
       "id": "news-2gb32yx",
       "tags": [
         "scope-regional"
@@ -162,7 +32,7 @@
       "title": "全国入冬进程图：大雪节气开启仲冬时节",
       "url": "http://www.news.cn/politics/2022-12/08/c_1129190937.htm",
       "snippet": "11月26日至12月1日，我国大部地区经历了今冬以来最强寒潮。在其推动下，冬季的版图急剧扩张。截至目前，我国约四分之三国土被冬季覆盖。你那里是冬天了吗？",
-      "publishedAt": "2026-07-19T07:50:59.187Z",
+      "publishedAt": "2026-07-20T10:33:23.479Z",
       "id": "news-2gsohyh",
       "tags": [
         "cold-wave",
@@ -174,10 +44,39 @@
     {
       "source": "新华网政治",
       "sourceHome": "https://www.news.cn",
+      "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm",
+      "snippet": "今天（12月14日），全国大部降水仍稀少，雨雪零散分布，冷空气影响也进入尾声阶段。不过，从明天开始，新一轮实力更强的冷空气接踵而至，将率先从新疆北部展开，随后逐渐给我国大部地区带来大风降温天气，同时西南、江汉等地降水也将增多。",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
+      "id": "news-4iy3bz",
+      "tags": [
+        "strong-wind"
+      ],
+      "mainTagKey": "strong-wind",
+      "type": "strong-wind"
+    },
+    {
+      "source": "新华网政治",
+      "sourceHome": "https://www.news.cn",
+      "title": "北京今天最高温0℃山区有零星小雪 明起三天冷空气又将来降温",
+      "url": "http://www.news.cn/politics/2022-12/14/c_1129206415.htm",
+      "snippet": "今天（12月14日），北京气温将有所回升，最高气温0℃，下午天空云量增多，山区有零星小雪。明起三天，又有冷空气影响北京，北风将再度增大，气温逐渐下降。本周冷空气频繁，气温持续较低，公众请注意防寒保暖。",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
+      "id": "news-17f70vb",
+      "tags": [
+        "heatwave",
+        "temp-continuous"
+      ],
+      "mainTagKey": "heatwave",
+      "type": "heatwave"
+    },
+    {
+      "source": "新华网政治",
+      "sourceHome": "https://www.news.cn",
       "title": "新时代新征程新伟业｜大河上下满目新——贯彻落实党的二十大精神加强黄河流域生态保护观察",
       "url": "http://www.news.cn/politics/2022-12/13/c_1129204883.htm",
       "snippet": "万里黄河，奔流不息。大河上下，焕然一新。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-1s9dp5x",
       "tags": [],
       "mainTagKey": null,
@@ -189,7 +88,7 @@
       "title": "长江流域“抗旱会战”告一段落",
       "url": "http://www.news.cn/politics/2022-12/13/c_1129204698.htm",
       "snippet": "12月8日，湖南省水利厅解除水旱灾害防御三级应急响应，这是长江流域今年最后一个宣告解除的省级水旱灾害防御应急响应。至此，持续近4个月的长江流域“抗旱会战”告一段落。随着近期迎来数轮降雨，长江流域各地抗旱应急响应目前已经解除。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-zgdq2v",
       "tags": [
         "temp-continuous"
@@ -203,7 +102,7 @@
       "title": "北方多地遭遇沙尘天气 冬季发生沙尘暴正常吗？",
       "url": "http://www.news.cn/politics/2022-12/12/c_1129203259.htm",
       "snippet": "12日，冷空气裹挟着沙尘影响北方多地，中央气象台继续发布沙尘暴蓝色预警。气象预报显示，未来十天，冷空气活动频繁且势力较强，除青藏高原外，我国大部地区平均气温较常年同期持续明显偏低。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-4vmib0q",
       "tags": [
         "sandstorm",
@@ -218,7 +117,7 @@
       "title": "新华时评：稳住压舱石 吃下定心丸",
       "url": "http://www.news.cn/politics/2022-12/12/c_1129203241.htm",
       "snippet": "国家统计局12日发布数据，2022年全国粮食总产量13731亿斤，比上年增加74亿斤，粮食产量连续8年稳定在1.3万亿斤以上。我们克服了北方罕见秋汛导致冬小麦晚播、局部发生新冠肺炎疫情和南方持续高温干旱等不利因素影响，全年粮食实现增产丰收。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-4v12bvn",
       "tags": [
         "heatwave",
@@ -234,7 +133,7 @@
       "title": "“绝不让雪域高原濒危种质资源灭失”——西藏阿沛甲咂牛与樟木牛抢救性保种全面展开",
       "url": "http://www.news.cn/politics/2022-12/12/c_1129203236.htm",
       "snippet": "雪域高原珍贵的种质资源——西藏阿沛甲咂牛和樟木牛的体细胞12日成功移入国家家畜基因库进行战略保存，阿沛甲咂牛和樟木牛的体细胞保种取得重要进展。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-4umrog9",
       "tags": [],
       "mainTagKey": null,
@@ -246,7 +145,7 @@
       "title": "大风沙尘双预警生效中！北京今日大风伴沙尘阵风将达6至7级",
       "url": "http://www.news.cn/politics/2022-12/12/c_1129200817.htm",
       "snippet": "今晨，北京大风呼啸，06时，部分地区极大风速已达6～7级，西部部分山区阵风甚至达到10级左右，目前，大风和沙尘蓝色预警信号同时生效中。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-4vaqiet",
       "tags": [
         "strong-wind",
@@ -261,7 +160,7 @@
       "title": "沙尘暴蓝色预警继续！京津冀等部分地区将现扬沙或浮尘天气",
       "url": "http://www.news.cn/politics/2022-12/12/c_1129200807.htm",
       "snippet": "受冷空气大风影响，预计12月12日08时至13日08时，内蒙古中西部、甘肃、宁夏、陕西北部、山西中北部、河北中北部、北京、天津以及新疆塔里木盆地等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-4utow0m",
       "tags": [
         "sandstorm",
@@ -277,7 +176,7 @@
       "title": "沙尘暴蓝色预警继续！山西河北等8省区有扬沙或浮尘天气",
       "url": "http://www.news.cn/politics/2022-12/11/c_1129199534.htm",
       "snippet": "受冷空气大风影响，预计12月11日08时至12日08时，新疆东部和南疆盆地、青海北部和西南部、内蒙古西部、甘肃大部、宁夏、陕西中北部、山西、河北西部等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-805zj",
       "tags": [
         "sandstorm",
@@ -293,7 +192,7 @@
       "title": "应急管理部提示：做好近期冷空气过程防范应对",
       "url": "http://www.news.cn/politics/2022-12/10/c_1129198883.htm",
       "snippet": "针对近期冷空气过程，应急管理部于10日向受影响的25个省份发出提示，要求落实落细低温雨雪冰冻天气应对各项措施，全力保障人民群众生命财产安全。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-y9vkxa",
       "tags": [],
       "mainTagKey": null,
@@ -305,7 +204,7 @@
       "title": "全球连线丨三江源国家公园为中国生物多样性保护提供借鉴",
       "url": "http://www.news.cn/politics/2022-12/10/c_1129198743.htm",
       "snippet": "三江源位于世界“第三极”青藏高原腹地、青海省西南部，被誉为“中华水塔”，是中国重要的生态安全屏障和高原生物种质资源库，生物多样性丰富。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-hpat4h",
       "tags": [],
       "mainTagKey": null,
@@ -317,7 +216,7 @@
       "title": "三股冷空气先后入侵 中东部气温将一路走低",
       "url": "http://www.news.cn/politics/2022-12/10/c_1129198294.htm",
       "snippet": "中央气象台10日发布，近期影响我国的冷空气活动频繁，先后有三股冷空气入侵，北风占主导，中东部地区的气温将一路走低，气温零度线也将往南扩张；同时雨雪天气较弱，全国大部地区干燥多风。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-hq7cjs",
       "tags": [],
       "mainTagKey": null,
@@ -329,7 +228,7 @@
       "title": "沙尘暴蓝色预警继续！山西河北等8省区有扬沙或浮尘天气",
       "url": "http://www.news.cn/politics/2022-12/11/c_1129199540.htm",
       "snippet": "受冷空气大风影响，预计12月11日08时至12日08时，新疆东部和南疆盆地、青海北部和西南部、内蒙古西部、甘肃大部、宁夏、陕西中北部、山西、河北西部等地的部分地区有扬沙或浮尘天气，其中，内蒙古西部局地有沙尘暴。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-mum0a",
       "tags": [
         "sandstorm",
@@ -345,7 +244,7 @@
       "title": "新华视点｜多样生物 多彩四川",
       "url": "http://www.news.cn/politics/2022-12/10/c_1129198264.htm",
       "snippet": "四川地处中国西南腹地，在独特的地理位置、多样的地貌条件、复杂的气候等因素的共同作用下，多类型的自然生态系统在四川得以充分发挥。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-gb2hd7",
       "tags": [],
       "mainTagKey": null,
@@ -357,7 +256,7 @@
       "title": "冷空气将携大风降温来袭 明天江苏部分地区最低温跌至冰点附近",
       "url": "http://www.news.cn/politics/2022-12/10/c_1129197667.htm",
       "snippet": "今明两天（12月10日至11日），受冷空气影响，江苏将出现大风降温天气过程，全省最低气温将明显下降，预计明天部分地区最低气温都将跌至冰点附近，风寒效应明显，公众需厚装护体。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-1a8oiz7",
       "tags": [
         "strong-wind",
@@ -372,7 +271,7 @@
       "title": "黑龙江周末两天晴天为主 11日夜间开始雨雪又上线",
       "url": "http://www.news.cn/politics/2022-12/10/c_1129197664.htm",
       "snippet": "周末两天（12月10日至11日），黑龙江大部地区晴天唱主调，天气舞台总体平静。但冷空气即将“复工”，眼前的平静状态也将被打破，预计11日夜间开始到12日，黑龙江大部地区雨雪再登场，公众需关注临近预报，提前做好相关防范措施。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-1a71574",
       "tags": [],
       "mainTagKey": null,
@@ -384,7 +283,7 @@
       "title": "冷空气开工！北京北风在线阵风可达7级 风寒效应明显需保暖",
       "url": "http://www.news.cn/politics/2022-12/10/c_1129197503.htm",
       "snippet": "冷空气又来了！今天（12月10日），北京虽然天气晴朗，但北风在线，部分地区阵风可达7级左右，风寒效应明显，公众出行需注意保暖避风。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-sntc0k",
       "tags": [],
       "mainTagKey": null,
@@ -396,7 +295,7 @@
       "title": "国台办：所谓大陆暂停进口台湾午仔鱼等水产品的报道与事实不符",
       "url": "http://www.news.cn/politics/2022-12/09/c_1129196946.htm",
       "snippet": "近日岛内媒体称大陆无预警禁止进口台湾午仔鱼、秋刀鱼等水产品，台陆委会声称将表达严正抗议。国台办发言人朱凤莲9日答记者问表示，所谓大陆暂停进口台湾午仔鱼、秋刀鱼、鱿鱼等水产品的报道与事实不符，所谓“严正抗议”更是无理取闹。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-2x6lpu",
       "tags": [],
       "mainTagKey": null,
@@ -408,7 +307,7 @@
       "title": "新时代新征程新伟业丨铸就社会主义文化新辉煌——各地贯彻落实党的二十大精神推进文化自信自强观察",
       "url": "http://www.news.cn/politics/2022-12/09/c_1129196714.htm",
       "snippet": "积极践行社会主义核心价值观，唱响爱党爱国爱社会主义时代强音；探索文化事业和文化产业融合发展，回应人民群众精神文化新需求新期待；推动文化遗产“活起来”“火起来”，以古人之规矩，开自己之生面……放眼神州，新的文化创新创造竞相涌现、蔚为大观，处处呈现出“江山壮丽，人民豪迈，前程远大”的复兴气象。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-11awffx",
       "tags": [],
       "mainTagKey": null,
@@ -420,7 +319,7 @@
       "title": "一海一陆，双箭连发 ｜捷龙三号首飞成功！长二丁火箭71连胜！",
       "url": "http://www.news.cn/politics/2022-12/09/c_1211708219.htm",
       "snippet": "捷龙三号运载火箭全箭总长31.8米，箭体最大直径2.65米，起飞质量140吨，500千米太阳同步轨道运载能力1.5吨，支持陆基及海上快速发射。使用了由航天科技集团四院研制的国内装药量最多、推力最大的高性能纤维缠绕复合材料壳体整体式固体发动机，发动机直径2.65米，装药量71吨，推力达到200吨，综合性能达到世界一流水平；",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-4pgu7q",
       "tags": [],
       "mainTagKey": null,
@@ -432,7 +331,7 @@
       "title": "“中国死海”山西运城盐湖冬日出现“硝花”景观",
       "url": "http://www.news.cn/politics/2022-12/09/c_1129195449.htm",
       "snippet": "连日来，随着气温不断下降，有着“中国死海”之称的山西运城盐湖出现了冬日特有的“硝花”景观。这些“硝花”凌寒怒放，吸引了不少游客前来观赏。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-10z2zu5",
       "tags": [],
       "mainTagKey": null,
@@ -444,7 +343,7 @@
       "title": "新时代新征程新伟业｜吉林梅河口：社区共建解决群众急难愁盼问题",
       "url": "http://www.news.cn/politics/2022-12/09/c_1129195409.htm",
       "snippet": "党的二十大报告提出，完善社会治理体系。健全共建共治共享的社会治理制度，提升社会治理效能。畅通和规范群众诉求表达、利益协调、权益保障通道。建设人人有责、人人尽责、人人享有的社会治理共同体。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-z2wi9d",
       "tags": [],
       "mainTagKey": null,
@@ -456,7 +355,7 @@
       "title": "今起两股冷空气将接踵而至 全国大部雨雪稀少",
       "url": "http://www.news.cn/politics/2022-12/09/c_1129194024.htm",
       "snippet": "今天（12月9日）开始，冷空气又将活跃起来，其中今天至11日以及12日至14日将有两股冷空气接踵而至，影响均以大风、降温为主，东北等地累计降温幅度大，局地可达10℃以上。此外，今后三天，我国大部地区雨雪稀少的天气格局将延续，雨水主要集中在江南、西南等地。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-2ih9a2v",
       "tags": [
         "strong-wind",
@@ -471,7 +370,7 @@
       "title": "浙江今明天小雨淅沥阳光难觅 沿海海面风力较大局部阵风可达10级",
       "url": "http://www.news.cn/politics/2022-12/09/c_1129193881.htm",
       "snippet": "今明两天（12月9日至10日），浙江天气舞台的关键词仍是阴雨，虽然普遍以淅淅沥沥的小雨为主，但天空云层较厚，阳光难觅，平添了一份冬日的阴沉感。此外，未来三天，浙江中部沿海海面、南部沿海海面等东北风明显，阵风逐渐增强至10级左右，海上作业人员需关注预报预警，及时回港避风。",
-      "publishedAt": "2026-07-19T07:50:59.186Z",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
       "id": "news-13t7bfr",
       "tags": [
         "gale",
@@ -483,11 +382,23 @@
     {
       "source": "新华网政治",
       "sourceHome": "https://www.news.cn",
-      "title": "明起新一轮冷空气接踵而至 我国大部将迎大风降温",
-      "url": "http://www.news.cn/politics/2022-12/14/c_1129206671.htm",
-      "snippet": "今天（12月14日），全国大部降水仍稀少，雨雪零散分布，冷空气影响也进入尾声阶段。不过，从明天开始，新一轮实力更强的冷空气接踵而至，将率先从新疆北部展开，随后逐渐给我国大部地区带来大风降温天气，同时西南、江汉等地降水也将增多。",
-      "publishedAt": "2026-07-19T07:50:59.185Z",
-      "id": "news-4iy3bz",
+      "title": "广东今明天阳光继续“营业” 空气干燥昼夜温差大",
+      "url": "http://www.news.cn/politics/2022-12/09/c_1129193877.htm",
+      "snippet": "今明两天（12月9日至10日），广东阳光继续在线，晴燥“控场”，不过昼夜温差较大，早晚寒凉感明显，公众需注意适时补水和添衣保暖。",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
+      "id": "news-13fgglq",
+      "tags": [],
+      "mainTagKey": null,
+      "type": "other"
+    },
+    {
+      "source": "新华网政治",
+      "sourceHome": "https://www.news.cn",
+      "title": "今天前半夜北京山区有弱降雪 后半夜至明天白天大风降温来袭",
+      "url": "http://www.news.cn/politics/2022-12/09/c_1129193872.htm",
+      "snippet": "今天（12月9日）白天，北京天气平稳，以晴到多云天气为主，前半夜山区有零星小雪或小雪，后半夜至明天白天大风降温来袭，户外风寒效应较明显，需注意防范。",
+      "publishedAt": "2026-07-20T10:33:23.478Z",
+      "id": "news-13cphmx",
       "tags": [
         "strong-wind"
       ],
@@ -495,16 +406,119 @@
       "type": "strong-wind"
     },
     {
-      "source": "新华网政治",
+      "source": "新华网社会",
       "sourceHome": "https://www.news.cn",
-      "title": "北京今天最高温0℃山区有零星小雪 明起三天冷空气又将来降温",
-      "url": "http://www.news.cn/politics/2022-12/14/c_1129206415.htm",
-      "snippet": "今天（12月14日），北京气温将有所回升，最高气温0℃，下午天空云量增多，山区有零星小雪。明起三天，又有冷空气影响北京，北风将再度增大，气温逐渐下降。本周冷空气频繁，气温持续较低，公众请注意防寒保暖。",
-      "publishedAt": "2026-07-19T07:50:59.185Z",
-      "id": "news-17f70vb",
+      "title": "全球连线｜“基于自然的解决方案”亚洲案例征集活动在COP15上启动",
+      "url": "http://www.news.cn/world/2022-12/11/c_1129200178.htm",
+      "snippet": "在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议期间，亚洲开发银行携手清华大学气候变化与可持续发展研究院启动“基于自然的解决方案”亚洲优秀实践案例征集活动。",
+      "publishedAt": "2026-07-20T10:33:23.442Z",
+      "id": "news-ike7mx",
       "tags": [
-        "heatwave",
         "temp-continuous"
+      ],
+      "mainTagKey": "temp-continuous",
+      "type": "temp-continuous"
+    },
+    {
+      "source": "新华网社会",
+      "sourceHome": "https://www.news.cn",
+      "title": "“基于自然的解决方案”亚洲案例征集活动在COP15上启动",
+      "url": "http://www.news.cn/world/2022-12/10/c_1129198181.htm",
+      "snippet": "在《生物多样性公约》第十五次缔约方大会（COP15）第二阶段会议期间，亚洲开发银行携手清华大学气候变化与可持续发展研究院启动“基于自然的解决方案”亚洲优秀实践案例征集活动。",
+      "publishedAt": "2026-07-20T10:33:23.442Z",
+      "id": "news-y4j6pe",
+      "tags": [
+        "temp-continuous"
+      ],
+      "mainTagKey": "temp-continuous",
+      "type": "temp-continuous"
+    },
+    {
+      "source": "新华网社会",
+      "sourceHome": "https://www.news.cn",
+      "title": "欧洲能源企业热衷美国海上风电开发",
+      "url": "http://www.news.cn/world/2022-12/09/c_1211708124.htm",
+      "snippet": "据路透社报道，这是开发深水风电项目所需“漂浮式海上风电”技术拓展全球市场进程中的一个里程碑。",
+      "publishedAt": "2026-07-20T10:33:23.442Z",
+      "id": "news-1d0bq04",
+      "tags": [],
+      "mainTagKey": null,
+      "type": "other"
+    },
+    {
+      "source": "新华网社会",
+      "sourceHome": "https://www.news.cn",
+      "title": "日本向上修正三季度实际GDP降幅",
+      "url": "http://www.news.cn/world/2022-12/08/c_1129192861.htm",
+      "snippet": "日本内阁府8日公布的二次统计报告显示，今年第三季度日本实际国内生产总值（GDP）环比下降0.2%，按年率计算降幅为0.8%，与初值相比小幅向上修正。",
+      "publishedAt": "2026-07-20T10:33:23.442Z",
+      "id": "news-2bxonuw",
+      "tags": [],
+      "mainTagKey": null,
+      "type": "other"
+    },
+    {
+      "source": "新华网社会",
+      "sourceHome": "https://www.news.cn",
+      "title": "澳央行预计四季度通胀水平达峰值",
+      "url": "http://www.news.cn/world/2022-12/07/c_1129190562.htm",
+      "snippet": "澳大利亚储备银行（央行）日前发表月度货币政策声明表示，澳通胀水平或将在今年第四季度达到8%左右的峰值，并表示连续加息是遏制高通胀的必要手段。",
+      "publishedAt": "2026-07-20T10:33:23.442Z",
+      "id": "news-r1pu5j",
+      "tags": [
+        "temp-continuous"
+      ],
+      "mainTagKey": "temp-continuous",
+      "type": "temp-continuous"
+    },
+    {
+      "source": "新华网社会",
+      "sourceHome": "https://www.news.cn",
+      "title": "刚果（金）首都暴雨致141人死亡",
+      "url": "http://www.news.cn/world/2022-12/14/c_1129206388.htm",
+      "snippet": "刚果（金）首都金沙萨12日夜间至13日凌晨遭遇暴雨，多个地区发生洪涝和山体滑坡，导致至少141人死亡。",
+      "publishedAt": "2026-07-20T10:33:23.441Z",
+      "id": "news-26d1i7l",
+      "tags": [
+        "rainstorm-strong"
+      ],
+      "mainTagKey": "rainstorm-strong",
+      "type": "rainstorm-strong"
+    },
+    {
+      "source": "新华网社会",
+      "sourceHome": "https://www.news.cn",
+      "title": "俄战机在巴伦支海上空对挪威侦察机实施伴飞",
+      "url": "http://www.news.cn/world/2022-12/13/c_1129203460.htm",
+      "snippet": "俄罗斯国防部国家国防管理中心12日发布消息说，俄当天动用米格-31战斗机在巴伦支海上空对一架挪威侦察机实施了伴飞。",
+      "publishedAt": "2026-07-20T10:33:23.441Z",
+      "id": "news-26cyn66",
+      "tags": [],
+      "mainTagKey": null,
+      "type": "other"
+    },
+    {
+      "source": "新华网社会",
+      "sourceHome": "https://www.news.cn",
+      "title": "外媒：环保人士谴责英国政府“气候虚伪”",
+      "url": "http://www.news.cn/world/2022-12/12/c_1211708832.htm",
+      "snippet": "",
+      "publishedAt": "2026-07-20T10:33:23.441Z",
+      "id": "news-dkt9t4",
+      "tags": [],
+      "mainTagKey": null,
+      "type": "other"
+    },
+    {
+      "source": "中新网",
+      "sourceHome": "https://www.chinanews.com.cn",
+      "title": "高温歇凉、逐浪去 重庆渐兴境外游客“消暑游”",
+      "url": "https://www.chinanews.com.cn/sh/2026/07-20/10663079.shtml",
+      "snippet": "中新网重庆7月20日电 (张旭)高山“歇凉”(重庆方言，意为乘凉)、峡谷溪降、河滩打麻将、防空洞里吃火锅……夏日炎炎，重庆渐兴境外游客“消暑游”。",
+      "publishedAt": "2026-07-20T10:21:28.000Z",
+      "id": "news-1h18cfb",
+      "tags": [
+        "heatwave"
       ],
       "mainTagKey": "heatwave",
       "type": "heatwave"
@@ -512,77 +526,17 @@
     {
       "source": "中新网",
       "sourceHome": "https://www.chinanews.com.cn",
-      "title": "7月20日北京市郊铁路部分列车停运",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-19/10662426.shtml",
-      "snippet": "记者今天(19日)从国铁北京局了解到，因降雨预警，7月20日，北京市郊铁路S2线S205次、S206次、S287次、S288次临时停运；怀柔-密云线S503次、S504次、S517次、S518次、S513次、S514次、S523次临时停运。",
-      "publishedAt": "2026-07-19T07:20:12.000Z",
-      "id": "news-too5l6",
+      "title": "河北多部门连发预警 冰雹、山洪、地质灾害风险叠加",
+      "url": "https://www.chinanews.com.cn/gn/2026/07-20/10663070.shtml",
+      "snippet": "中新网石家庄7月20日电 河北省气象台7月20日17时9分发布冰雹橙色预警信号，预计未来6小时，石家庄、张家口西部、保定、雄安新区、邢台、衡水中西部、沧州等地的部分地区可能出现冰雹天气。",
+      "publishedAt": "2026-07-20T10:06:23.000Z",
+      "id": "news-2uwi7z6",
       "tags": [
-        "impact-traffic"
+        "hail",
+        "flash-flood"
       ],
-      "mainTagKey": "impact-traffic",
-      "type": "impact-traffic"
-    },
-    {
-      "source": "中新网",
-      "sourceHome": "https://www.chinanews.com.cn",
-      "title": "受降雨天气影响 沪昆铁路部分列车今日停运",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-19/10662424.shtml",
-      "snippet": "记者从国铁广州局了解到，近日湖南部分地区有暴雨，局地大暴雨。为确保旅客列车运行安全，根据降雨影响范围持续调整列车运行秩序，7月19日，计划对沪昆铁路部分列车采取停运措施，具体停运车次请在12306网站(App)查询。铁路部门后续将动态调整列车运行秩序，提醒有出行需求的旅客密切关注铁路12306网站及车站公告，掌握列车开行信息。",
-      "publishedAt": "2026-07-19T07:17:42.000Z",
-      "id": "news-bznbxw",
-      "tags": [
-        "rainstorm-heavy",
-        "rainstorm-strong",
-        "impact-traffic",
-        "scope-local",
-        "temp-continuous"
-      ],
-      "mainTagKey": "rainstorm-heavy",
-      "type": "rainstorm-heavy"
-    },
-    {
-      "source": "中新网",
-      "sourceHome": "https://www.chinanews.com.cn",
-      "title": "洪水退去，广西向前",
-      "url": "https://www.chinanews.com.cn/gn/2026/07-19/10662412.shtml",
-      "snippet": "暴雨停后，网上有一个画面让人感到格外沉重。一位记者乘坐动车抵达广西贵港，进港瞬间，车厢内的乘客安静无声。窗外，街道变成河流，低处房屋只剩屋顶。有人一直望着窗外，没有说话。",
-      "publishedAt": "2026-07-19T06:55:30.000Z",
-      "id": "news-35b0v17",
-      "tags": [
-        "rainstorm-strong",
-        "flood"
-      ],
-      "mainTagKey": "rainstorm-strong",
-      "type": "rainstorm-strong"
-    },
-    {
-      "source": "中新网",
-      "sourceHome": "https://www.chinanews.com.cn",
-      "title": "广西受到台风“美莎克”影响区域全部恢复供电",
-      "url": "https://www.chinanews.com.cn/sh/2026/07-19/10662406.shtml",
-      "snippet": "中新网南宁7月19日电(记者 林艳华)记者19日从南方电网广西电网公司获悉，7月18日20时，随着南宁横州市全面复电，广西壮族自治区受台风“美莎克”影响的停电区域全部恢复供电。",
-      "publishedAt": "2026-07-19T06:45:22.000Z",
-      "id": "news-gat1qg",
-      "tags": [
-        "typhoon",
-        "impact-power",
-        "scope-regional"
-      ],
-      "mainTagKey": "typhoon",
-      "type": "typhoon"
-    },
-    {
-      "source": "中新网",
-      "sourceHome": "https://www.chinanews.com.cn",
-      "title": "三伏天19℃的激情：2.4万名跑者竞逐2026六盘水马拉松",
-      "url": "https://www.chinanews.com.cn/ty/2026/07-19/10662401.shtml",
-      "snippet": "中新网贵州六盘水7月19日电 (记者 周燕玲)2026六盘水马拉松19日在贵州省六盘水市钟山区鸣枪开跑。尽管当日正值三伏天，但“中国凉都”名副其实，起跑时气温仅19摄氏度，凉爽的气候吸引2.4万名跑者竞逐这场别具一格的夏季马拉松。",
-      "publishedAt": "2026-07-19T06:43:30.000Z",
-      "id": "news-8wreejh",
-      "tags": [],
-      "mainTagKey": null,
-      "type": "other"
+      "mainTagKey": "hail",
+      "type": "hail"
     },
     {
       "source": "人民网时政",
@@ -661,5 +615,5 @@
       "type": "temp-continuous"
     }
   ],
-  "lastUpdated": "2026-07-19T07:50:59.541Z"
+  "lastUpdated": "2026-07-20T10:33:23.622Z"
 }
